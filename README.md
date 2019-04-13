@@ -1,9 +1,9 @@
 PiPoCoin Core integration/staging repository
 =====================================
 
-[![Build Status](https://travis-ci.org/pipo-project/PiPo-coin.svg?branch=master)](https://travis-ci.org/pipo-project/PiPo-coin) [![GitHub version](https://badge.fury.io/gh/PIPOCOIN-Project%2FPIPOCOIN.svg)](https://badge.fury.io/gh/PIPOCOIN-Project%2FPIPOCOIN)
+[![Build Status](https://travis-ci.org/pipo-project/PiPo-coin.svg?branch=master)](https://travis-ci.org/pipo-project/PiPo-coin) [![GitHub version](https://badge.fury.io/gh/pipo-project%2FPiPo-coin.svg)](https://badge.fury.io/gh/pipo-project%2FPiPo-coin)
 
-PIPOCOIN is an open source crypto-currency focused on fast private transactions using the Zerocoin protocol, with low transaction fees & environmental footprint.  It utilizes the first ever anonymous proof of stake protocol, called zPoS, combined with regular PoS and masternodes for securing its network. zPoS incentivises using the privacy features available in PIPOCOIN by granting a higher block reward for zPoS over regular PoS and masternodes. In practice PIPOCOIN has between 4 to 10 times higher use of it's privacy features in comparison to other coins that combine public and private transactions. This is thanks to innovations like zPoS and integrating the Zerocoin protocol into light/mobile wallets, allowing for a complete and lightweight privacy protocol that can be used on the go. As well as security improvements like [deterministic generation of zPIPO for easy backups.](https://www.reddit.com/r/pipocoin/comments/8gbjf7/how_to_use_deterministic_zerocoin_generation/)
+PIPOCOIN is an open source crypto-currency focused on fast private transactions using the Zerocoin protocol, with low transaction fees & environmental footprint.  It utilizes the first ever anonymous proof of stake protocol, called zPoS, combined with regular PoS and masternodes for securing its network. zPoS incentivises using the privacy features available in PIPOCOIN by granting a higher block reward for zPoS over regular PoS and masternodes. In practice PIPOCOIN has between 4 to 10 times higher use of it's privacy features in comparison to other coins that combine public and private transactions. This is thanks to innovations like zPoS and integrating the Zerocoin protocol into light/mobile wallets, allowing for a complete and lightweight privacy protocol that can be used on the go. As well as security improvements like [deterministic generation of zPIPO for easy backups.]
 The goal of PIPOCOIN is to achieve a decentralized sustainable crypto currency with near instant full-time private transactions, fair governance and community intelligence.
 - Anonymized transactions & consensus using the [_Zerocoin Protocol_](http://www.pipo.project/zpipo) and [zPoS](https://pipocoin.org/zpos/).
 - light/mobile wallet privacy using the [Zerocoin Light Node Protocol](https://pipocoin.org/wp-content/uploads/2018/11/Zerocoin_Light_Node_Protocol.pdf)
@@ -17,43 +17,46 @@ More information at [pipocoin.org](http://www.pipo.project) Visit our ANN thread
 <tr><td>Algo</td><td>Quark</td></tr>
 <tr><td>Block Time</td><td>60 Seconds</td></tr>
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
-<tr><td>Max Coin Supply (PoW Phase)</td><td>43,199,500 PIPO</td></tr>
+<tr><td>Max Coin Supply (PoW Phase)</td><td>310,000 PIPO</td></tr>
 <tr><td>Max Coin Supply (PoS Phase)</td><td>Infinite</td></tr>
 <tr><td>Premine</td><td>60,000 PIPO*</td></tr>
 </table>
 
-*60,000 PIPO Premine was burned in block [279917](http://www.presstab.pw/phpexplorer/PIPOCOIN/block.php?blockhash=206d9cfe859798a0b0898ab00d7300be94de0f5469bb446cecb41c3e173a57e0)
+*60,000 PIPO Premine will be burned in block [279999]
 
 ### Reward Distribution
 
 <table>
 <th colspan=4>Genesis Block</th>
 <tr><th>Block Height</th><th>Reward Amount</th><th>Notes</th></tr>
-<tr><td>1</td><td>60,000 PIPO</td><td>Initial Pre-mine, burnt in block <a href="http://www.presstab.pw/phpexplorer/PIPOCOIN/block.php?blockhash=206d9cfe859798a0b0898ab00d7300be94de0f5469bb446cecb41c3e173a57e0">279917</a></td></tr>
+<tr><td>1</td><td>60,000 PIPO</td><td>Initial Pre-mine, will be burned in block 279999</td></tr>
 </table>
 
 ### PoW Rewards Breakdown
 
 <table>
 <th>Block Height</th><th>Masternodes</th><th>Miner</th><th>Budget</th>
-<tr><td>2-43200</td><td>20% (50 PIPO)</td><td>80% (200 PIPO)</td><td>N/A</td></tr>
-<tr><td>43201-151200</td><td>20% (50 PIPO)</td><td>70% (200 PIPO)</td><td>10% (25 PIPO)</td></tr>
-<tr><td>151201-259200</td><td>45% (22.5 PIPO)</td><td>45% (22.5 PIPO)</td><td>10% (5 PIPO)</td></tr>
+<tr><td>2-1000</td><td>0% (0 PIPO)</td><td>100% (250 PIPO)</td><td>N/A</td></tr>
 </table>
 
 ### PoS Rewards Breakdown
 
 <table>
 <th>Phase</th><th>Block Height</th><th>Reward</th><th>Masternodes & Stakers</th><th>Budget</th>
-<tr><td>Phase 0</td><td>259201-302399</td><td>50 PIPO</td><td>90% (45 PIPO)</td><td>10% (5 PIPO)</td></tr>
-<tr><td>Phase 1</td><td>302400-345599</td><td>45 PIPO</td><td>90% (40.5 PIPO)</td><td>10% (4.5 PIPO)</td></tr>
-<tr><td>Phase 2</td><td>345600-388799</td><td>40 PIPO</td><td>90% (36 PIPO)</td><td>10% (4 PIPO)</td></tr>
-<tr><td>Phase 3</td><td>388800-431999</td><td>35 PIPO</td><td>90% (31.5 PIPO)</td><td>10% (3.5 PIPO)</td></tr>
-<tr><td>Phase 4</td><td>432000-475199</td><td>30 PIPO</td><td>90% (27 PIPO)</td><td>10% (3 PIPO)</td></tr>
-<tr><td>Phase 5</td><td>475200-518399</td><td>25 PIPO</td><td>90% (22.5 PIPO)</td><td>10% (2.5 PIPO)</td></tr>
-<tr><td>Phase 6</td><td>518400-561599</td><td>20 PIPO</td><td>90% (18 PIPO)</td><td>10% (2 PIPO)</td></tr>
-<tr><td>Phase 7</td><td>561600-604799</td><td>15 PIPO</td><td>90% (13.5 PIPO)</td><td>10% (1.5 PIPO)</td></tr>
-<tr><td>Phase 8</td><td>604800-647999</td><td>10 PIPO</td><td>90% (9 PIPO)</td><td>10% (1 PIPO)</td></tr>
-<tr><td>Phase 9</td><td>648000-1154203</td><td>5 PIPO</td><td>90% (4.5 PIPO)</td><td>10% (0.5 PIPO)</td></tr>
-<tr><td>Phase X</td><td>1154203-∞</td><td>6 PIPO</td><td>84% (5 PIPO/zPIPO)</td><td>16% (1 PIPO)</td></tr>
+<tr><td>Phase 0</td><td>1001-10000</td><td>25 PIPO</td><td>90% (20 PIPO)</td><td>10% (5 PIPO)</td></tr>
+<tr><td>Phase 1</td><td>10001-20000</td><td>30 PIPO</td><td>90% (40.5 PIPO)</td><td>10% (4.5 PIPO)</td></tr>
+<tr><td>Phase 2</td><td>20001-30000</td><td>45 PIPO</td><td>90% (36 PIPO)</td><td>10% (4 PIPO)</td></tr>
+<tr><td>Phase 3</td><td>30001-40000</td><td>55 PIPO</td><td>90% (31.5 PIPO)</td><td>10% (3.5 PIPO)</td></tr>
+<tr><td>Phase 4</td><td>40001-50000</td><td>60.5 PIPO</td><td>90% (27 PIPO)</td><td>10% (3 PIPO)</td></tr>
+<tr><td>Phase 5</td><td>50001-60000</td><td>76 PIPO</td><td>90% (22.5 PIPO)</td><td>10% (2.5 PIPO)</td></tr>
+<tr><td>Phase 6</td><td>60001-70000</td><td>81.5 PIPO</td><td>90% (18 PIPO)</td><td>10% (2 PIPO)</td></tr>
+<tr><td>Phase 7</td><td>70001-80000</td><td>87 PIPO</td><td>90% (13.5 PIPO)</td><td>10% (1.5 PIPO)</td></tr>
+<tr><td>Phase 8</td><td>80001-90000</td><td>92.5 PIPO</td><td>90% (9 PIPO)</td><td>10% (1 PIPO)</td></tr>
+<tr><td>Phase 9</td><td>90001-100000</td><td>108 PIPO</td><td>90% (4.5 PIPO)</td><td>10% (0.5 PIPO)</td></tr>
+<tr><td>Phase 9</td><td>100001-150000</td><td>83 PIPO</td><td>90% (4.5 PIPO)</td><td>10% (0.5 PIPO)</td></tr>
+<tr><td>Phase 9</td><td>150001-200000</td><td>59 PIPO</td><td>90% (4.5 PIPO)</td><td>10% (0.5 PIPO)</td></tr>
+<tr><td>Phase 9</td><td>250001-350000</td><td>44.5 PIPO</td><td>90% (4.5 PIPO)</td><td>10% (0.5 PIPO)</td></tr>
+<tr><td>Phase 9</td><td>350001-450000</td><td>22.25 PIPO</td><td>90% (4.5 PIPO)</td><td>10% (0.5 PIPO)</td></tr>
+<tr><td>Phase 9</td><td>450001-550000</td><td>11.125 PIPO</td><td>90% (4.5 PIPO)</td><td>10% (0.5 PIPO)</td></tr>
+<tr><td>Phase X</td><td>550001-∞</td><td>5 PIPO</td><td>84% (5 PIPO/zPIPO)</td><td>16% (1 PIPO)</td></tr>
 </table>
