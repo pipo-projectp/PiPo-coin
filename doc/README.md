@@ -3,7 +3,7 @@ PiPo Coin Core
 
 Setup
 ---------------------
-[PiPo Coin Core](http://pipocoin.org/wallet) is the original PIPOCOIN client and it builds the backbone of the network. However, it downloads and stores the entire history of PIPOCOIN transactions; depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more. Thankfully you only have to do this once.
+[PiPo Coin Core](http://pipo.project/wallet) is the original PIPOCOIN client and it builds the backbone of the network. However, it downloads and stores the entire history of PIPOCOIN transactions; depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more. Thankfully you only have to do this once.
 
 Running
 ---------------------
@@ -28,9 +28,9 @@ Drag PIPOCOIN-Qt to your applications folder, and then run PIPOCOIN-Qt.
 
 * See the documentation at the [PIPOCOIN Wiki](https://en.bitcoin.it/wiki/Main_Page) ***TODO***
 for help and more information.
-* Ask for help on [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or on the [PIPOCOIN Forum](http://forum.pipocoin.org/).
-* Join our Discord server [Discord Server](https://discord.pipocoin.org)
-* Join one of our Slack groups [PIPOCOIN Slack Groups](https://pipocoin.org/slack-logins/) (Main community is replaced by Discord).
+* Ask for help on [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or on the [PIPOCOIN Forum](http://forum.pipo.project/).
+* Join our Discord server [Discord Server](https://discord.pipo.project)
+* Join one of our Slack groups [PIPOCOIN Slack Groups](https://pipo.project/slack-logins/) (Main community is replaced by Discord).
 
 Building
 ---------------------
@@ -56,7 +56,7 @@ The Pipocoin repo's [root README](https://github.com/pipo-project/PiPo-coin/blob
 
 ### Resources
 
-* Discuss on the [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or the [PIPOCOIN](http://forum.pipocoin.org/) forum.
+* Discuss on the [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or the [PIPOCOIN](http://forum.pipo.project/) forum.
 * Join the [PIPOCOIN-Dev](https://pipocoin-dev.slack.com/) Slack group ([Sign-Up](https://pipocoin-dev.herokuapp.com/)).
 
 ### Miscellaneous
