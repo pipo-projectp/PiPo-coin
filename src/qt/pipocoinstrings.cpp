@@ -253,10 +253,10 @@ QT_TRANSLATE_NOOP("pipocoin-core", ""
 QT_TRANSLATE_NOOP("pipocoin-core", ""
 "You must specify a masternodeprivkey in the configuration. Please see "
 "documentation for help."),
-QT_TRANSLATE_NOOP("pipocoin-core", "(51472 could be used only on mainnet)"),
+QT_TRANSLATE_NOOP("pipocoin-core", "(52215 could be used only on mainnet)"),
 QT_TRANSLATE_NOOP("pipocoin-core", "(default: %s)"),
 QT_TRANSLATE_NOOP("pipocoin-core", "(default: 1)"),
-QT_TRANSLATE_NOOP("pipocoin-core", "(must be 51472 for mainnet)"),
+QT_TRANSLATE_NOOP("pipocoin-core", "(must be 52215 for mainnet)"),
 QT_TRANSLATE_NOOP("pipocoin-core", "<category> can be:"),
 QT_TRANSLATE_NOOP("pipocoin-core", "Accept command line and JSON-RPC commands"),
 QT_TRANSLATE_NOOP("pipocoin-core", "Accept connections from outside (default: 1 if no -proxy or -connect)"),
