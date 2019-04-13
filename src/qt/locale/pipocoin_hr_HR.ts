@@ -725,11 +725,11 @@
         <translation>Prozor Block preglednika</translation>
     </message>
     <message>
-        <source>Show the PIPOCOIN Core help message to get a list with possible PIPOCOIN command-line options</source>
-        <translation>Pokažite poruku PIPOCOIN Core pomoći da biste dobili popis s mogućim PIPOCOIN opcijama naredbenog retka</translation>
+        <source>Show the PiPoCoin Core help message to get a list with possible PIPOCOIN command-line options</source>
+        <translation>Pokažite poruku PiPoCoin Core pomoći da biste dobili popis s mogućim PIPOCOIN opcijama naredbenog retka</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core client</source>
+        <source>PiPoCoin Core client</source>
         <translation>PIPOIX Core Klijent</translation>
     </message>
     <message>
@@ -1277,12 +1277,12 @@ Višestruko slanje: %1</translation>
         <translation>Dobrodošli u PIPOCOIN Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where PIPOCOIN Core will store its data.</source>
-        <translation>Budući da je prvi put pokrenut program, možete odabrati gdje će PIPOCOIN Core pohraniti svoje podatke.</translation>
+        <source>As this is the first time the program is launched, you can choose where PiPoCoin Core will store its data.</source>
+        <translation>Budući da je prvi put pokrenut program, možete odabrati gdje će PiPoCoin Core pohraniti svoje podatke.</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core will download and store a copy of the PIPOCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>PIPOCOIN Core preuzima i pohranjuje kopiju PIPOCOIN blok-lanca. Barem će %1GB podataka biti pohranjeno u ovom direktoriju i to će s vremenom rasti. Novčanik će također biti pohranjena u ovom direktoriju.</translation>
+        <source>PiPoCoin Core will download and store a copy of the PIPOCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>PiPoCoin Core preuzima i pohranjuje kopiju PIPOCOIN blok-lanca. Barem će %1GB podataka biti pohranjeno u ovom direktoriju i to će s vremenom rasti. Novčanik će također biti pohranjena u ovom direktoriju.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -3999,8 +3999,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>PIPOCOIN Core is shutting down...</source>
-        <translation>PIPOCOIN Core se zatvara ...</translation>
+        <source>PiPoCoin Core is shutting down...</source>
+        <translation>PiPoCoin Core se zatvara ...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -4165,8 +4165,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Dash Core programeri</translation>
     </message>
     <message>
-        <source>The PIPOCOIN Core developers</source>
-        <translation>PIPOCOIN Core programeri</translation>
+        <source>The PiPoCoin Core developers</source>
+        <translation>PiPoCoin Core programeri</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4811,8 +4811,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Izračunata kontrolna točka akumulatora nije ono što se bilježi indeksom blokova</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. PIPOCOIN Core is probably already running.</source>
-        <translation>Nije moguće dobiti zaključavanje na direktoriju podataka %s. PIPOCOIN Core vjerojatno već radi.</translation>
+        <source>Cannot obtain a lock on data directory %s. PiPoCoin Core is probably already running.</source>
+        <translation>Nije moguće dobiti zaključavanje na direktoriju podataka %s. PiPoCoin Core vjerojatno već radi.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -4987,8 +4987,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Ovaj proizvod uključuje softver razvijen od strane OpenSSL projekta za uporabu u OpenSSL Toolkitu i kriptografskom softveru kojeg je napisao Eric Young i UPnP softver koji je napisao Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. PIPOCOIN Core is probably already running.</source>
-        <translation>Nije moguće vezati se na %s na ovom računalu. PIPOCOIN Core vjerojatno već radi.</translation>
+        <source>Unable to bind to %s on this computer. PiPoCoin Core is probably already running.</source>
+        <translation>Nije moguće vezati se na %s na ovom računalu. PiPoCoin Core vjerojatno već radi.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
@@ -5015,8 +5015,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Upozorenje: -paytxfee je vrlo visoka! To je transakcijska naknada koju ćete platiti ako šaljete transakciju.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong PIPOCOIN Core will not work properly.</source>
-        <translation>Upozorenje: Provjerite jesu li datum i vrijeme vašeg računala točni! Ako je vaš sat pogrešan, PIPOCOIN Core neće raditi ispravno.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong PiPoCoin Core will not work properly.</source>
+        <translation>Upozorenje: Provjerite jesu li datum i vrijeme vašeg računala točni! Ako je vaš sat pogrešan, PiPoCoin Core neće raditi ispravno.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -5167,8 +5167,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Autorska prava (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The PIPOCOIN Core Developers</source>
-        <translation>Autorska prava (C) 2015-%i The PIPOCOIN Core Developers</translation>
+        <source>Copyright (C) 2015-%i The PiPoCoin Core Developers</source>
+        <translation>Autorska prava (C) 2015-%i The PiPoCoin Core Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5376,8 +5376,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Informacije</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. PIPOCOIN Core is shutting down.</source>
-        <translation>Provjera ispravnosti inicijalizacije nije uspjela. PIPOCOIN Core se zatvara.</translation>
+        <source>Initialization sanity check failed. PiPoCoin Core is shutting down.</source>
+        <translation>Provjera ispravnosti inicijalizacije nije uspjela. PiPoCoin Core se zatvara.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -6183,7 +6183,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Novčanik zaključan.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart PIPOCOIN Core to complete</source>
+        <source>Wallet needed to be rewritten: restart PiPoCoin Core to complete</source>
         <translation>Potrebno je prepisati novčanik: ponovo pokrenite PIPOCOIN Core</translation>
     </message>
     <message>

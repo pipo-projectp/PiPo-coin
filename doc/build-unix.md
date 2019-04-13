@@ -72,7 +72,7 @@ Now, you can either build from self-compiled [depends](/depends/README.md) or in
     sudo apt-get install libssl-dev libgmp-dev libevent-dev libboost-all-dev
 
 **Note:** For Ubuntu versions starting with Bionic (18.04), or Debian versions starting with Stretch, use `libssl1.0-dev`
-above instead of `libssl-dev`. PIPOCOIN Core does not support the use of OpenSSL 1.1, though compilation is still possible
+above instead of `libssl-dev`. PiPoCoin Core does not support the use of OpenSSL 1.1, though compilation is still possible
 by passing `--with-incompatible-ssl` to configure (NOT RECOMMENDED!).
 
 BerkeleyDB is required for the wallet.
@@ -189,7 +189,7 @@ cd db-4.8.30.NC/build_unix/
 ../dist/configure --enable-cxx --disable-shared --with-pic --prefix=$BDB_PREFIX
 make install
 
-# Configure PIPOCOIN Core to use our own-built instance of BDB
+# Configure PiPoCoin Core to use our own-built instance of BDB
 cd $PIPOCOIN_ROOT
 ./configure (other args...) LDFLAGS="-L${BDB_PREFIX}/lib/" CPPFLAGS="-I${BDB_PREFIX}/include/"
 ```
@@ -254,7 +254,7 @@ Disable-wallet mode
 --------------------
 **Note:** This functionality is not yet completely implemented, and compilation using the below option will currently fail.
 
-When the intention is to run only a P2P node without a wallet, PIPOCOIN Core may be compiled in
+When the intention is to run only a P2P node without a wallet, PiPoCoin Core may be compiled in
 disable-wallet mode with:
 
     ./configure --disable-wallet

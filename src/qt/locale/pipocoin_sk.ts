@@ -649,12 +649,12 @@
         <translation>Okno blockchain prehliadača</translation>
     </message>
     <message>
-        <source>Show the PIPOCOIN Core help message to get a list with possible PIPOCOIN command-line options</source>
-        <translation>Zobraziť pomocnú správu programu PIPOCOIN Core a získajte zoznam možností príkazového riadka PIPOCOIN</translation>
+        <source>Show the PiPoCoin Core help message to get a list with possible PIPOCOIN command-line options</source>
+        <translation>Zobraziť pomocnú správu programu PiPoCoin Core a získajte zoznam možností príkazového riadka PIPOCOIN</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core client</source>
-        <translation>PIPOCOIN Core klient</translation>
+        <source>PiPoCoin Core client</source>
+        <translation>PiPoCoin Core klient</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>

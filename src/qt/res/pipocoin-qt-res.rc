@@ -20,7 +20,7 @@ BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
             VALUE "CompanyName",        "PIPOCOIN"
-            VALUE "FileDescription",    "PIPOCOIN Core (OSS GUI client for PIPOCOIN)"
+            VALUE "FileDescription",    "PiPoCoin Core (OSS GUI client for PIPOCOIN)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "pipocoin-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR

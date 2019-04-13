@@ -582,7 +582,7 @@
     </message>
     <message>
         <source>Show information about PIPOCOIN Core</source>
-        <translation>顯示 PIPOCOIN Core 相關資訊</translation>
+        <translation>顯示 PiPoCoin Core 相關資訊</translation>
     </message>
     <message>
         <source>Modify configuration options for PIPOCOIN</source>
@@ -637,12 +637,12 @@
         <translation>區塊鏈瀏覽視窗</translation>
     </message>
     <message>
-        <source>Show the PIPOCOIN Core help message to get a list with possible PIPOCOIN command-line options</source>
-        <translation>顯示 PIPOCOIN Core 幫助訊息以取得 PIPOCOIN 命令列表選項</translation>
+        <source>Show the PiPoCoin Core help message to get a list with possible PIPOCOIN command-line options</source>
+        <translation>顯示 PiPoCoin Core 幫助訊息以取得 PIPOCOIN 命令列表選項</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core client</source>
-        <translation>PIPOCOIN Core 客戶端</translation>
+        <source>PiPoCoin Core client</source>
+        <translation>PiPoCoin Core 客戶端</translation>
     </message>
     </context>
 <context>

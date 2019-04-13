@@ -733,11 +733,11 @@
         <translation>Blockera utforskarfönstret</translation>
     </message>
     <message>
-        <source>Show the PIPOCOIN Core help message to get a list with possible PIPOCOIN command-line options</source>
-        <translation>Visa PIPOCOIN Core hjälp meddelande för att få en lista med möjliga PIPOCOIN kommandorad alternativ</translation>
+        <source>Show the PiPoCoin Core help message to get a list with possible PIPOCOIN command-line options</source>
+        <translation>Visa PiPoCoin Core hjälp meddelande för att få en lista med möjliga PIPOCOIN kommandorad alternativ</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core client</source>
+        <source>PiPoCoin Core client</source>
         <translation>PIPOCOIN kärn klient</translation>
     </message>
     <message numerus="yes">
@@ -1305,11 +1305,11 @@ MultiSend: %1</translation>
         <translation>Välkommen till PIPOCOIN Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where PIPOCOIN Core will store its data.</source>
-        <translation>Eftersom detta är första gången programmet körs så kan du välja var PIPOCOIN Core ska spara sin data.</translation>
+        <source>As this is the first time the program is launched, you can choose where PiPoCoin Core will store its data.</source>
+        <translation>Eftersom detta är första gången programmet körs så kan du välja var PiPoCoin Core ska spara sin data.</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core will download and store a copy of the PIPOCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>PiPoCoin Core will download and store a copy of the PIPOCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>PIPOCOIN Kärnan kommer ladda ner och spara en kopia av PIPOCOIN block chain. Minst %1GB data kommer sparas i denna katalog och den kommer växa med tiden. Plånboken kommer också sparas i denna katalog.</translation>
     </message>
     <message>
@@ -4148,8 +4148,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>PIPOCOIN Core is shutting down...</source>
-        <translation>PIPOCOIN Core stängs ner...</translation>
+        <source>PiPoCoin Core is shutting down...</source>
+        <translation>PiPoCoin Core stängs ner...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -4314,8 +4314,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Dash Core utvecklarna</translation>
     </message>
     <message>
-        <source>The PIPOCOIN Core developers</source>
-        <translation>PIPOCOIN Core utvecklarna</translation>
+        <source>The PiPoCoin Core developers</source>
+        <translation>PiPoCoin Core utvecklarna</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4979,7 +4979,7 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Beräknade ackumulator kontrollstation är inte vad som sparats av block index</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. PIPOCOIN Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. PiPoCoin Core is probably already running.</source>
         <translation>Kan ej låsa in på data katalog %s. PIPOCOIN Kärna körs förmodligen redan.</translation>
     </message>
     <message>
@@ -5159,8 +5159,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Totala längden av nätverks verisionens sträng (%i) överskrider maximala längd (%i). Minska mängden eller storleken av uakommentarer.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. PIPOCOIN Core is probably already running.</source>
-        <translation>Kan inte binda till %s på denna dator. PIPOCOIN Core körs förmodligen redan.</translation>
+        <source>Unable to bind to %s on this computer. PiPoCoin Core is probably already running.</source>
+        <translation>Kan inte binda till %s på denna dator. PiPoCoin Core körs förmodligen redan.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
@@ -5187,8 +5187,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Varning: -maxtxfee är sätt väldigt högt! Detta är transaktionsavgiften du kommer betala om du skickar en transaktion.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong PIPOCOIN Core will not work properly.</source>
-        <translation>Varning: Var vänlig kontrollera att din dators tid och datum är korrekt! Om din klocka är fel så kommer PIPOCOIN Core inte att fungera korrekt.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong PiPoCoin Core will not work properly.</source>
+        <translation>Varning: Var vänlig kontrollera att din dators tid och datum är korrekt! Om din klocka är fel så kommer PiPoCoin Core inte att fungera korrekt.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -5343,8 +5343,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The PIPOCOIN Core Developers</source>
-        <translation>Copyright (C) 2015-%i The PIPOCOIN Core Developers</translation>
+        <source>Copyright (C) 2015-%i The PiPoCoin Core Developers</source>
+        <translation>Copyright (C) 2015-%i The PiPoCoin Core Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5555,7 +5555,7 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Information</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. PIPOCOIN Core is shutting down.</source>
+        <source>Initialization sanity check failed. PiPoCoin Core is shutting down.</source>
         <translation>Initierings renlighetscheck misslyckades. PIPOCOIN Kärna stängs ner.</translation>
     </message>
     <message>
@@ -6367,7 +6367,7 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Plånboken är låst.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart PIPOCOIN Core to complete</source>
+        <source>Wallet needed to be rewritten: restart PiPoCoin Core to complete</source>
         <translation>Plånbok behöver skrivas om: starta om PIPOCOIN Kärna för att göra klart</translation>
     </message>
     <message>

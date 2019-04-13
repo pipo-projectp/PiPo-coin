@@ -685,12 +685,12 @@
         <translation>Okno blokového průzkumníka</translation>
     </message>
     <message>
-        <source>Show the PIPOCOIN Core help message to get a list with possible PIPOCOIN command-line options</source>
-        <translation>Zobrazit PIPOCOIN Core pomocnou zpráv pro získání seznamu možných parametrů PIPOCOIN pro příkazy do příkazové řádky</translation>
+        <source>Show the PiPoCoin Core help message to get a list with possible PIPOCOIN command-line options</source>
+        <translation>Zobrazit PiPoCoin Core pomocnou zpráv pro získání seznamu možných parametrů PIPOCOIN pro příkazy do příkazové řádky</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core client</source>
-        <translation>PIPOCOIN Core klient</translation>
+        <source>PiPoCoin Core client</source>
+        <translation>PiPoCoin Core klient</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1181,12 +1181,12 @@ MultiSend: %1</translation>
         <translation>Vítejte v PIPOCOIN Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where PIPOCOIN Core will store its data.</source>
-        <translation>Při prvním spuštění programu si můžete vybrat, kam bude PIPOCOIN Core ukládat svá data.</translation>
+        <source>As this is the first time the program is launched, you can choose where PiPoCoin Core will store its data.</source>
+        <translation>Při prvním spuštění programu si můžete vybrat, kam bude PiPoCoin Core ukládat svá data.</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core will download and store a copy of the PIPOCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>PIPOCOIN Core stáhne a uloží kopii PIPOCOIN blockchainu. Nejméně %1GB dat bude do této složky uloženo a v průběhu času bude ukládat další data. Peněženka bude v této složce uložena také.</translation>
+        <source>PiPoCoin Core will download and store a copy of the PIPOCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>PiPoCoin Core stáhne a uloží kopii PIPOCOIN blockchainu. Nejméně %1GB dat bude do této složky uloženo a v průběhu času bude ukládat další data. Peněženka bude v této složce uložena také.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>

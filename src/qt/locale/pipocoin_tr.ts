@@ -729,12 +729,12 @@
         <translation>Kaşif penceresini engelle</translation>
     </message>
     <message>
-        <source>Show the PIPOCOIN Core help message to get a list with possible PIPOCOIN command-line options</source>
-        <translation>Olası PIPOCOIN komut satırı seçeneklerine sahip bir liste almak için PIPOCOIN Core yardım mesajını gösterin</translation>
+        <source>Show the PiPoCoin Core help message to get a list with possible PIPOCOIN command-line options</source>
+        <translation>Olası PIPOCOIN komut satırı seçeneklerine sahip bir liste almak için PiPoCoin Core yardım mesajını gösterin</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core client</source>
-        <translation>PIPOCOIN Core istemci</translation>
+        <source>PiPoCoin Core client</source>
+        <translation>PiPoCoin Core istemci</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1278,11 +1278,11 @@ Adres: %4
         <translation>PIPOCOIN Core'a hoşgeldiniz.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where PIPOCOIN Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where PiPoCoin Core will store its data.</source>
         <translation>Program ilk başlatıldığında PIPOCOIN Core'un verilerini nerede saklayacağını seçebilirsiniz.</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core will download and store a copy of the PIPOCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>PiPoCoin Core will download and store a copy of the PIPOCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>PIPOCOIN Core, PIPOCOIN blok zincirinin bir kopyasını indirecek ve depolayacaktır. Bu dizinde en az %1GB veri saklanacak ve zamanla büyüyecek. Cüzdan ayrıca bu dizinde saklanır.</translation>
     </message>
     <message>
@@ -3792,8 +3792,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>PIPOCOIN Core is shutting down...</source>
-        <translation>PIPOCOIN Core kapanıyor ...</translation>
+        <source>PiPoCoin Core is shutting down...</source>
+        <translation>PiPoCoin Core kapanıyor ...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -3958,8 +3958,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>The Dash Core developers</translation>
     </message>
     <message>
-        <source>The PIPOCOIN Core developers</source>
-        <translation>The PIPOCOIN Core developers</translation>
+        <source>The PiPoCoin Core developers</source>
+        <translation>The PiPoCoin Core developers</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4551,8 +4551,8 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>Hesaplanan akümülatör kontrol noktası, blok indeksiyle kaydedilen kontrol noktası değildir.</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. PIPOCOIN Core is probably already running.</source>
-        <translation>Veri dizini %s üzerinde bir kilit elde edemiyor. PIPOCOIN Core muhtemelen zaten çalışıyor.</translation>
+        <source>Cannot obtain a lock on data directory %s. PiPoCoin Core is probably already running.</source>
+        <translation>Veri dizini %s üzerinde bir kilit elde edemiyor. PiPoCoin Core muhtemelen zaten çalışıyor.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>

@@ -586,7 +586,7 @@
     </message>
     <message>
         <source>&amp;About PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core &amp;ytimestä</translation>
+        <translation>PiPoCoin Core &amp;ytimestä</translation>
     </message>
     <message>
         <source>Show information about PIPOCOIN Core</source>
@@ -645,11 +645,11 @@
         <translation>Lohkon tutkija näkymä</translation>
     </message>
     <message>
-        <source>Show the PIPOCOIN Core help message to get a list with possible PIPOCOIN command-line options</source>
+        <source>Show the PiPoCoin Core help message to get a list with possible PIPOCOIN command-line options</source>
         <translation>Näytä PIPOCOIN Ydin apuviesti saadaksesi lista mahdollisista PIPOCOIN komentolinja komennoista.</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core client</source>
+        <source>PiPoCoin Core client</source>
         <translation>PIPOCOIN Ydin asiakasohjelma</translation>
     </message>
     <message>
@@ -2054,7 +2054,7 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>PIPOCOIN Core is shutting down...</source>
+        <source>PiPoCoin Core is shutting down...</source>
         <translation>PIPOCOIN core sammuu...</translation>
     </message>
     <message>
@@ -2212,7 +2212,7 @@
         <translation>Dash Core kehittäjät</translation>
     </message>
     <message>
-        <source>The PIPOCOIN Core developers</source>
+        <source>The PiPoCoin Core developers</source>
         <translation>PIPOCOIN core kehittäjät</translation>
     </message>
     <message>

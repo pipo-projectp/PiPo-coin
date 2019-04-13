@@ -1,4 +1,4 @@
-PIPOCOIN Core integration/staging repository
+PiPoCoin Core integration/staging repository
 =====================================
 
 [![Build Status](https://travis-ci.org/pipo-project/PiPo-coin.svg?branch=master)](https://travis-ci.org/pipo-project/PiPo-coin) [![GitHub version](https://badge.fury.io/gh/PIPOCOIN-Project%2FPIPOCOIN.svg)](https://badge.fury.io/gh/PIPOCOIN-Project%2FPIPOCOIN)

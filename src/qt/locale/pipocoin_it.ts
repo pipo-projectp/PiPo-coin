@@ -725,11 +725,11 @@
         <translation>Finestra Block Explorer</translation>
     </message>
     <message>
-        <source>Show the PIPOCOIN Core help message to get a list with possible PIPOCOIN command-line options</source>
-        <translation>Mostra il messaggio di aiuto PIPOCOIN Core per ottenere un elenco con le possibili opzioni di riga di comando PIPOCOIN</translation>
+        <source>Show the PiPoCoin Core help message to get a list with possible PIPOCOIN command-line options</source>
+        <translation>Mostra il messaggio di aiuto PiPoCoin Core per ottenere un elenco con le possibili opzioni di riga di comando PIPOCOIN</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core client</source>
+        <source>PiPoCoin Core client</source>
         <translation>PIPOCOIN Core</translation>
     </message>
     <message>
@@ -1265,12 +1265,12 @@ MultiSend: %1</translation>
         <translation>Benvenuto in PIPOIX Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where PIPOCOIN Core will store its data.</source>
-        <translation>Essendo il primo avvio dell'applicazione, puoi scegliere dove PIPOCOIN Core salverà i propri dati.</translation>
+        <source>As this is the first time the program is launched, you can choose where PiPoCoin Core will store its data.</source>
+        <translation>Essendo il primo avvio dell'applicazione, puoi scegliere dove PiPoCoin Core salverà i propri dati.</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core will download and store a copy of the PIPOCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>PIPOCOIN Core scaricherà e salverà una copia della blockchain PIPOCOIN. Verranno salvati almeno %1GB di dati in questa cartella, che cresceranno nel tempo. In questa cartella verrà salvato anche il portafoglio.</translation>
+        <source>PiPoCoin Core will download and store a copy of the PIPOCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>PiPoCoin Core scaricherà e salverà una copia della blockchain PIPOCOIN. Verranno salvati almeno %1GB di dati in questa cartella, che cresceranno nel tempo. In questa cartella verrà salvato anche il portafoglio.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>

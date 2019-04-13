@@ -653,12 +653,12 @@
         <translation>区块浏览窗口</translation>
     </message>
     <message>
-        <source>Show the PIPOCOIN Core help message to get a list with possible PIPOCOIN command-line options</source>
+        <source>Show the PiPoCoin Core help message to get a list with possible PIPOCOIN command-line options</source>
         <translation>显示PIPOCOIN Core帮助信息并获取PIPOCOIN命令行选项列表</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core client</source>
-        <translation>PIPOCOIN Core 客户端</translation>
+        <source>PiPoCoin Core client</source>
+        <translation>PiPoCoin Core 客户端</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -825,11 +825,11 @@ Address: %4
         <translation>欢迎使用 PIPOCOIN Core</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where PIPOCOIN Core will store its data.</source>
-        <translation>由于这是该程序第一次启动，您可以选择存储PIPOCOIN Core 数据的位置。</translation>
+        <source>As this is the first time the program is launched, you can choose where PiPoCoin Core will store its data.</source>
+        <translation>由于这是该程序第一次启动，您可以选择存储PiPoCoin Core 数据的位置。</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core will download and store a copy of the PIPOCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>PiPoCoin Core will download and store a copy of the PIPOCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>PIPOCOIN Core将下载并存储PIPOCOIN区块链副本。 至少 %1 GB的数据将存储在此目录中，并且会随着时间的推移而增长。 钱包也将存储在此目录中。</translation>
     </message>
     <message>
@@ -1564,7 +1564,7 @@ Address: %4
         <translation>在收到相关警报时执行命令，或者看到一个很长的分叉（cmd中的%s被消息替换）</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong PIPOCOIN Core will not work properly.</source>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong PiPoCoin Core will not work properly.</source>
         <translation>注意：请检查您的电脑的日期和时间是否正确！ 如果您的时间设置不正确，PIPOCOIN Core将无法正常工作。</translation>
     </message>
     <message>

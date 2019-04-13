@@ -729,11 +729,11 @@
         <translation>Blockexplorer vindue</translation>
     </message>
     <message>
-        <source>Show the PIPOCOIN Core help message to get a list with possible PIPOCOIN command-line options</source>
+        <source>Show the PiPoCoin Core help message to get a list with possible PIPOCOIN command-line options</source>
         <translation>Vis hjelpetekster fra PIPOCOIN kernen for at få en liste med mulige PIPOCOIN kommandolinie-startparametre</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core client</source>
+        <source>PiPoCoin Core client</source>
         <translation>PIPOCOIN kerneklient</translation>
     </message>
     <message numerus="yes">
@@ -1301,11 +1301,11 @@ Adresse: %4
         <translation>Velkommen til PIPOCOIN kerne</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where PIPOCOIN Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where PiPoCoin Core will store its data.</source>
         <translation>Da det er første gang programmet startes, kan De vælge hvor PIPOCOIN kernen skal lagre sine data</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core will download and store a copy of the PIPOCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>PiPoCoin Core will download and store a copy of the PIPOCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>PIPOCOIN kernen vil nu hente og gemme en kopi af PIPOCOIN blockchain. Der skal være mindst %1GB ledigt på lagermediet, og behovet vil stige efterhånden som tiden går. Selve tegnebogen vil også blive gemt her.</translation>
     </message>
     <message>
@@ -4050,7 +4050,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>PIPOCOIN Core is shutting down...</source>
+        <source>PiPoCoin Core is shutting down...</source>
         <translation>PIPOCOIN kernen lukker ned</translation>
     </message>
     <message>
@@ -4216,7 +4216,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>DASH "core" udviklerne</translation>
     </message>
     <message>
-        <source>The PIPOCOIN Core developers</source>
+        <source>The PiPoCoin Core developers</source>
         <translation>PIPOCOIN "core" udviklerne</translation>
     </message>
     <message>
@@ -4877,7 +4877,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Beregnet akkumulator kontrolpunkt er ikke det, der er registreret af blok indeks</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. PIPOCOIN Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. PiPoCoin Core is probably already running.</source>
         <translation>Kan ikke låse datamappen %s. PIPOCOIN core kører sandsynligvis allerede.</translation>
     </message>
     <message>
@@ -5054,7 +5054,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Dette produkt anvender software udviklet i OpenSSL projektet til brug i OpenSSL værktøjssættet &lt;https://www.openssl.org/&gt; og kryptosoftware skrevet afEric Young og UPnP software skrevet af Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. PIPOCOIN Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. PiPoCoin Core is probably already running.</source>
         <translation>Det var ikke muligt at forbinde %s på denne computer. PIPOCOIN kører sandsynligvis allerede.</translation>
     </message>
     <message>
@@ -5082,7 +5082,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Advarsel! -paytxfee er sat meget højt. Det er dette gebyr De kommer til at betale for transaktionen, hvis De gennemfører. </translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong PIPOCOIN Core will not work properly.</source>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong PiPoCoin Core will not work properly.</source>
         <translation>Advarsel! Kontroller at computerens dato og tid er korrekt indstillet. Hvis tiden ikke er rigtig, vil PIPOCOIN core ikke fungere ordentligt.</translation>
     </message>
     <message>
@@ -5234,8 +5234,8 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Copyright (C) 2014-%i The Dash Core Developers </translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The PIPOCOIN Core Developers</source>
-        <translation>Copyright (C) 2015-%i The PIPOCOIN Core Developers</translation>
+        <source>Copyright (C) 2015-%i The PiPoCoin Core Developers</source>
+        <translation>Copyright (C) 2015-%i The PiPoCoin Core Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5446,7 +5446,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Info:</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. PIPOCOIN Core is shutting down.</source>
+        <source>Initialization sanity check failed. PiPoCoin Core is shutting down.</source>
         <translation>Initiering af sanitetskontrollen fejlede. PIPOCOIN core lukker ned. </translation>
     </message>
     <message>
@@ -6254,7 +6254,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Tegnebogen er låst</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart PIPOCOIN Core to complete</source>
+        <source>Wallet needed to be rewritten: restart PiPoCoin Core to complete</source>
         <translation>Tegnebogen måtte genskrives. Genstart PIPOCOIN core for at gøre færdig</translation>
     </message>
     <message>

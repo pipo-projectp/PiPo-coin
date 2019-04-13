@@ -725,11 +725,11 @@
         <translation>Bloko esplorilo fenestro</translation>
     </message>
     <message>
-        <source>Show the PIPOCOIN Core help message to get a list with possible PIPOCOIN command-line options</source>
+        <source>Show the PiPoCoin Core help message to get a list with possible PIPOCOIN command-line options</source>
         <translation>Montri la PIPOCOIN Kore help-mesaĝo por havi liston de havebla PIPOCOIN komandlinion opciojn</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core client</source>
+        <source>PiPoCoin Core client</source>
         <translation>PIPOCOIN Kerno kliento</translation>
     </message>
     <message>
@@ -1265,11 +1265,11 @@ Muktisendi: %1</translation>
         <translation>Bonvenon al la PIPOCOIN Kerno.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where PIPOCOIN Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where PiPoCoin Core will store its data.</source>
         <translation>Ĉar estas la unuan fojon ke la programo estas lanĉita, vi povas elekti kie PIPOCOIN kernk storigis sian datumojn. </translation>
     </message>
     <message>
-        <source>PIPOCOIN Core will download and store a copy of the PIPOCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>PiPoCoin Core will download and store a copy of the PIPOCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>PIPOCOIN kerno elŝutos kaj konservi kopion de la PIPOCOIN blokĉeno. Almenaŭ %1GB datumoj stokitos en ĉi tiun dosierujo, kaj ĝi kresko kun la tempo. Monujo stokitos en ĉi tiun dosierujo.</translation>
     </message>
     <message>
@@ -2371,7 +2371,7 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>PIPOCOIN Core is shutting down...</source>
+        <source>PiPoCoin Core is shutting down...</source>
         <translation>PIPOCOIN kerno fermanta...</translation>
     </message>
     </context>
@@ -2437,7 +2437,7 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>La Dash kerno programistoj</translation>
     </message>
     <message>
-        <source>The PIPOCOIN Core developers</source>
+        <source>The PiPoCoin Core developers</source>
         <translation>La PIPOCOIN kerno programistoj</translation>
     </message>
     </context>

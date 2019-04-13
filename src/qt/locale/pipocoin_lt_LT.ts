@@ -725,12 +725,12 @@
         <translation>Blokų naršyklės langas</translation>
     </message>
     <message>
-        <source>Show the PIPOCOIN Core help message to get a list with possible PIPOCOIN command-line options</source>
-        <translation>Rodyti PIPOCOIN Core žinyną, kad gautumėte sąrašą su galimomis PIPOCOIN komandinės eilutės parinktimis</translation>
+        <source>Show the PiPoCoin Core help message to get a list with possible PIPOCOIN command-line options</source>
+        <translation>Rodyti PiPoCoin Core žinyną, kad gautumėte sąrašą su galimomis PIPOCOIN komandinės eilutės parinktimis</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core client</source>
-        <translation>PIPOCOIN Core piniginė</translation>
+        <source>PiPoCoin Core client</source>
+        <translation>PiPoCoin Core piniginė</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1269,12 +1269,12 @@ MultiSend: %1</translation>
         <translation>Sveiki atvykę į PIPOCOIN Core</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where PIPOCOIN Core will store its data.</source>
-        <translation>Kadangi programa paleista pirmą kartą, galite pasirinkti kur PIPOCOIN Core saugos savo duomenis.</translation>
+        <source>As this is the first time the program is launched, you can choose where PiPoCoin Core will store its data.</source>
+        <translation>Kadangi programa paleista pirmą kartą, galite pasirinkti kur PiPoCoin Core saugos savo duomenis.</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core will download and store a copy of the PIPOCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>PIPOCOIN Core atsisiųs ir saugos PIPOCOIN blockchain'o kopiją. Šiame kataloge bus saugomas ne mažesnis kaip %1GB duomenų kiekis, kuris laikui bėgant augs. Piniginė taip pat bus saugoma šiame kataloge.</translation>
+        <source>PiPoCoin Core will download and store a copy of the PIPOCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>PiPoCoin Core atsisiųs ir saugos PIPOCOIN blockchain'o kopiją. Šiame kataloge bus saugomas ne mažesnis kaip %1GB duomenų kiekis, kuris laikui bėgant augs. Piniginė taip pat bus saugoma šiame kataloge.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -3447,7 +3447,7 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
     </message>
     <message>
         <source>Error loading wallet.dat: Wallet requires newer version of PIPOCOIN Core</source>
-        <translation>Klaida kraunant wallet.dat: Piniginė reikalauja naujesnės PIPOCOIN Core versijos</translation>
+        <translation>Klaida kraunant wallet.dat: Piniginė reikalauja naujesnės PiPoCoin Core versijos</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -3674,8 +3674,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
         <translation>Piniginė užrakinta.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart PIPOCOIN Core to complete</source>
-        <translation>Piniginę reikia perrašyti: paleiskite PIPOCOIN Core iš naujo</translation>
+        <source>Wallet needed to be rewritten: restart PiPoCoin Core to complete</source>
+        <translation>Piniginę reikia perrašyti: paleiskite PiPoCoin Core iš naujo</translation>
     </message>
     <message>
         <source>Wallet options:</source>

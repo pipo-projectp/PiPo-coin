@@ -32,7 +32,7 @@ QT_TRANSLATE_NOOP("pipocoin-core", ""
 QT_TRANSLATE_NOOP("pipocoin-core", ""
 "Calculated accumulator checkpoint is not what is recorded by block index"),
 QT_TRANSLATE_NOOP("pipocoin-core", ""
-"Cannot obtain a lock on data directory %s. PIPOCOIN Core is probably already "
+"Cannot obtain a lock on data directory %s. PiPoCoin Core is probably already "
 "running."),
 QT_TRANSLATE_NOOP("pipocoin-core", ""
 "Change automatic finalized budget voting behavior. mode=auto: Vote for only "
@@ -210,7 +210,7 @@ QT_TRANSLATE_NOOP("pipocoin-core", ""
 "Total length of network version string (%i) exceeds maximum length (%i). "
 "Reduce the number or size of uacomments."),
 QT_TRANSLATE_NOOP("pipocoin-core", ""
-"Unable to bind to %s on this computer. PIPOCOIN Core is probably already running."),
+"Unable to bind to %s on this computer. PiPoCoin Core is probably already running."),
 QT_TRANSLATE_NOOP("pipocoin-core", ""
 "Unable to locate enough Obfuscation denominated funds for this transaction."),
 QT_TRANSLATE_NOOP("pipocoin-core", ""
@@ -230,7 +230,7 @@ QT_TRANSLATE_NOOP("pipocoin-core", ""
 "pay if you send a transaction."),
 QT_TRANSLATE_NOOP("pipocoin-core", ""
 "Warning: Please check that your computer's date and time are correct! If "
-"your clock is wrong PIPOCOIN Core will not work properly."),
+"your clock is wrong PiPoCoin Core will not work properly."),
 QT_TRANSLATE_NOOP("pipocoin-core", ""
 "Warning: The network does not appear to fully agree! Some miners appear to "
 "be experiencing issues."),
@@ -289,7 +289,7 @@ QT_TRANSLATE_NOOP("pipocoin-core", "Connect to a node to retrieve peer addresses
 QT_TRANSLATE_NOOP("pipocoin-core", "Connection options:"),
 QT_TRANSLATE_NOOP("pipocoin-core", "Copyright (C) 2009-%i The Bitcoin Core Developers"),
 QT_TRANSLATE_NOOP("pipocoin-core", "Copyright (C) 2014-%i The Dash Core Developers"),
-QT_TRANSLATE_NOOP("pipocoin-core", "Copyright (C) 2015-%i The PIPOCOIN Core Developers"),
+QT_TRANSLATE_NOOP("pipocoin-core", "Copyright (C) 2015-%i The PiPoCoin Core Developers"),
 QT_TRANSLATE_NOOP("pipocoin-core", "Corrupted block database detected"),
 QT_TRANSLATE_NOOP("pipocoin-core", "Could not parse masternode.conf"),
 QT_TRANSLATE_NOOP("pipocoin-core", "Couldn't generate the accumulator witness"),
@@ -358,7 +358,7 @@ QT_TRANSLATE_NOOP("pipocoin-core", "Incompatible mode."),
 QT_TRANSLATE_NOOP("pipocoin-core", "Incompatible version."),
 QT_TRANSLATE_NOOP("pipocoin-core", "Incorrect or no genesis block found. Wrong datadir for network?"),
 QT_TRANSLATE_NOOP("pipocoin-core", "Information"),
-QT_TRANSLATE_NOOP("pipocoin-core", "Initialization sanity check failed. PIPOCOIN Core is shutting down."),
+QT_TRANSLATE_NOOP("pipocoin-core", "Initialization sanity check failed. PiPoCoin Core is shutting down."),
 QT_TRANSLATE_NOOP("pipocoin-core", "Input is not valid."),
 QT_TRANSLATE_NOOP("pipocoin-core", "Insufficient funds"),
 QT_TRANSLATE_NOOP("pipocoin-core", "Insufficient funds."),
@@ -530,7 +530,7 @@ QT_TRANSLATE_NOOP("pipocoin-core", "Verifying blocks..."),
 QT_TRANSLATE_NOOP("pipocoin-core", "Verifying wallet..."),
 QT_TRANSLATE_NOOP("pipocoin-core", "Wallet %s resides outside data directory %s"),
 QT_TRANSLATE_NOOP("pipocoin-core", "Wallet is locked."),
-QT_TRANSLATE_NOOP("pipocoin-core", "Wallet needed to be rewritten: restart PIPOCOIN Core to complete"),
+QT_TRANSLATE_NOOP("pipocoin-core", "Wallet needed to be rewritten: restart PiPoCoin Core to complete"),
 QT_TRANSLATE_NOOP("pipocoin-core", "Wallet options:"),
 QT_TRANSLATE_NOOP("pipocoin-core", "Wallet window title"),
 QT_TRANSLATE_NOOP("pipocoin-core", "Warning"),

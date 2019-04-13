@@ -743,12 +743,12 @@ odszyfrowany i aktualnie odblokowany tylko do anonimizacji i stakingu</translati
         <translation>Okno eksplorera bloków</translation>
     </message>
     <message>
-        <source>Show the PIPOCOIN Core help message to get a list with possible PIPOCOIN command-line options</source>
+        <source>Show the PiPoCoin Core help message to get a list with possible PIPOCOIN command-line options</source>
         <translation>Pokaż wiadomość pomocy rdzenia PIPOCOIN, aby dostać listę możliwych opcji PIPOCOIN command-line</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core client</source>
-        <translation>PIPOCOIN Core klient</translation>
+        <source>PiPoCoin Core client</source>
+        <translation>PiPoCoin Core klient</translation>
     </message>
     <message numerus="yes">
         <source>%n active connection(s) to PIPOCOIN network</source>
@@ -1351,12 +1351,12 @@ MultiWysyłlka: %1</translation>
         <translation>Zapraszamy do PIPOCOIN Core</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where PIPOCOIN Core will store its data.</source>
-        <translation>Ponieważ program jest uruchamiany po raz pierwszy, możesz wybrać miejsce, w którym PIPOCOIN Core będzie przechowywać swoje dane.</translation>
+        <source>As this is the first time the program is launched, you can choose where PiPoCoin Core will store its data.</source>
+        <translation>Ponieważ program jest uruchamiany po raz pierwszy, możesz wybrać miejsce, w którym PiPoCoin Core będzie przechowywać swoje dane.</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core will download and store a copy of the PIPOCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>PIPOCOIN Core pobierze i zapisze kopię łańcucha bloków PIPOCOIN. Przynajmniej %1 GB danych zostanie zapisanych w tym katalogu, a jego liczba będzie rosnąć z czasem. Portfel zostanie również zapisany w tym katalogu.</translation>
+        <source>PiPoCoin Core will download and store a copy of the PIPOCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>PiPoCoin Core pobierze i zapisze kopię łańcucha bloków PIPOCOIN. Przynajmniej %1 GB danych zostanie zapisanych w tym katalogu, a jego liczba będzie rosnąć z czasem. Portfel zostanie również zapisany w tym katalogu.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -3259,8 +3259,8 @@ Proszę być cierpliwym...</translation>
         <translation>Błąd odczytu pliku konfiguracyjnego masternode: %1</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core didn't yet exit safely...</source>
-        <translation>PIPOCOIN Core nie zamkną się jeszcze bezpiecznie ...</translation>
+        <source>PiPoCoin Core didn't yet exit safely...</source>
+        <translation>PiPoCoin Core nie zamkną się jeszcze bezpiecznie ...</translation>
     </message>
 </context>
 <context>
@@ -4299,8 +4299,8 @@ Proszę być cierpliwym...</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>PIPOCOIN Core is shutting down...</source>
-        <translation>PIPOCOIN Core się wyłącza ...</translation>
+        <source>PiPoCoin Core is shutting down...</source>
+        <translation>PiPoCoin Core się wyłącza ...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -4465,7 +4465,7 @@ Proszę być cierpliwym...</translation>
         <translation>Twórcy Dash Core</translation>
     </message>
     <message>
-        <source>The PIPOCOIN Core developers</source>
+        <source>The PiPoCoin Core developers</source>
         <translation>Twórcy PIPOCOIN Core</translation>
     </message>
     <message>
@@ -5134,8 +5134,8 @@ Proszę być cierpliwym...</translation>
         <translation>Obliczony punkt kontrolny akumulatora nie jest tym, co jest rejestrowane przez indeks bloku</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. PIPOCOIN Core is probably already running.</source>
-        <translation>Nie można uzyskać dostępu do katalogu danych %s. PIPOCOIN Core prawdopodobnie już działa.</translation>
+        <source>Cannot obtain a lock on data directory %s. PiPoCoin Core is probably already running.</source>
+        <translation>Nie można uzyskać dostępu do katalogu danych %s. PiPoCoin Core prawdopodobnie już działa.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -5250,8 +5250,8 @@ Proszę być cierpliwym...</translation>
         <translation>Utrzymuj pełny indeks transakcji, używany przez wywołanie getrawtransaction rpc (domyślnie:%u)</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. PIPOCOIN Core is probably already running.</source>
-        <translation>Nie można podłączyć %s na tym komputerze. PIPOCOIN Core prawdopodobnie już działa.</translation>
+        <source>Unable to bind to %s on this computer. PiPoCoin Core is probably already running.</source>
+        <translation>Nie można podłączyć %s na tym komputerze. PiPoCoin Core prawdopodobnie już działa.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
@@ -5330,8 +5330,8 @@ Proszę być cierpliwym...</translation>
         <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The PIPOCOIN Core Developers</source>
-        <translation>Copyright (C) 2015-%i The PIPOCOIN Core Developers</translation>
+        <source>Copyright (C) 2015-%i The PiPoCoin Core Developers</source>
+        <translation>Copyright (C) 2015-%i The PiPoCoin Core Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5858,7 +5858,7 @@ Proszę być cierpliwym...</translation>
         <translation>Portfel jest zablokowany.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart PIPOCOIN Core to complete</source>
+        <source>Wallet needed to be rewritten: restart PiPoCoin Core to complete</source>
         <translation>Portfel musiał zostać przepisany: zrestartuj PIPOCOIN Core, aby zakończyć</translation>
     </message>
     <message>

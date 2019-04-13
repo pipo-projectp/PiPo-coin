@@ -725,11 +725,11 @@
         <translation>Ventana del explorador de bloques</translation>
     </message>
     <message>
-        <source>Show the PIPOCOIN Core help message to get a list with possible PIPOCOIN command-line options</source>
-        <translation>Mostrar la ayuda de PIPOCOIN Core para obtener una lista de posibles opciones en línea de comandos</translation>
+        <source>Show the PiPoCoin Core help message to get a list with possible PIPOCOIN command-line options</source>
+        <translation>Mostrar la ayuda de PiPoCoin Core para obtener una lista de posibles opciones en línea de comandos</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core client</source>
+        <source>PiPoCoin Core client</source>
         <translation>Cliente PIPOCOIN Core</translation>
     </message>
     <message>
@@ -1293,12 +1293,12 @@ MultiEnvío: %1</translation>
         <translation>Bienvenido/a a PIPOCOIN Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where PIPOCOIN Core will store its data.</source>
-        <translation>Al ser la primera vez que se inicia el programa, usted puede elegir dónde guardará PIPOCOIN Core sus datos.</translation>
+        <source>As this is the first time the program is launched, you can choose where PiPoCoin Core will store its data.</source>
+        <translation>Al ser la primera vez que se inicia el programa, usted puede elegir dónde guardará PiPoCoin Core sus datos.</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core will download and store a copy of the PIPOCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>PIPOCOIN Core descargará y guardará una copia de la cadena de bloques PIPOCOIN. Por lo menos %1GB de datos serán guardados en esta carpeta, y crecerá con el tiempo. El monedero también se guardará en esta carpeta.</translation>
+        <source>PiPoCoin Core will download and store a copy of the PIPOCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>PiPoCoin Core descargará y guardará una copia de la cadena de bloques PIPOCOIN. Por lo menos %1GB de datos serán guardados en esta carpeta, y crecerá con el tiempo. El monedero también se guardará en esta carpeta.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -4058,7 +4058,7 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>PIPOCOIN Core is shutting down...</source>
+        <source>PiPoCoin Core is shutting down...</source>
         <translation>El programa PIPOCOIN se está cerrando...</translation>
     </message>
     <message>
@@ -4224,7 +4224,7 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Los desarrolladores de Dash Core</translation>
     </message>
     <message>
-        <source>The PIPOCOIN Core developers</source>
+        <source>The PiPoCoin Core developers</source>
         <translation>Los desarrolladores de PIPOCOIN Core</translation>
     </message>
     <message>
@@ -4869,8 +4869,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>El punto de chequeo del acumulador que hemos calculado no coincide con lo guardado en el índice de bloques</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. PIPOCOIN Core is probably already running.</source>
-        <translation>No se puede obtener un bloqueo sobre el directorio de datos %s. PIPOCOIN Core esta probablemente en ejecución.</translation>
+        <source>Cannot obtain a lock on data directory %s. PiPoCoin Core is probably already running.</source>
+        <translation>No se puede obtener un bloqueo sobre el directorio de datos %s. PiPoCoin Core esta probablemente en ejecución.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -5045,8 +5045,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Este producto incluye software desarrollado por el Proyecto OpenSSL para uso en OpenSSL Toolkit &lt;https://www.openssl.org/&gt; y software de cifrado escrito por Eric Young y software de UPnP escrito por Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. PIPOCOIN Core is probably already running.</source>
-        <translation>Imposible conectar a %s en esta computadora. Es probable que PIPOCOIN Core ya este corriendo.</translation>
+        <source>Unable to bind to %s on this computer. PiPoCoin Core is probably already running.</source>
+        <translation>Imposible conectar a %s en esta computadora. Es probable que PiPoCoin Core ya este corriendo.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
@@ -5073,8 +5073,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Advertencia: -paytxfee esta muy alta! Esta es la comisión de transacción que pagarás si envías una transacción.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong PIPOCOIN Core will not work properly.</source>
-        <translation>Advertencia: Por favor verifique que la fecha y hora de su computadora sean correctas! Si su reloj esta fuera de hora PIPOCOIN Core no funcionará adecuadamente.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong PiPoCoin Core will not work properly.</source>
+        <translation>Advertencia: Por favor verifique que la fecha y hora de su computadora sean correctas! Si su reloj esta fuera de hora PiPoCoin Core no funcionará adecuadamente.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -5225,8 +5225,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The PIPOCOIN Core Developers</source>
-        <translation>Copyright (C) 2015-%i The PIPOCOIN Core Developers</translation>
+        <source>Copyright (C) 2015-%i The PiPoCoin Core Developers</source>
+        <translation>Copyright (C) 2015-%i The PiPoCoin Core Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5437,8 +5437,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Información</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. PIPOCOIN Core is shutting down.</source>
-        <translation>La prueba de salud de inicialización ha fallado. PIPOCOIN Core se cerrará.</translation>
+        <source>Initialization sanity check failed. PiPoCoin Core is shutting down.</source>
+        <translation>La prueba de salud de inicialización ha fallado. PiPoCoin Core se cerrará.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -6245,8 +6245,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Monedero bloqueado.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart PIPOCOIN Core to complete</source>
-        <translation>El Monedero necesita ser reescrito: reinicie PIPOCOIN Core para completar</translation>
+        <source>Wallet needed to be rewritten: restart PiPoCoin Core to complete</source>
+        <translation>El Monedero necesita ser reescrito: reinicie PiPoCoin Core para completar</translation>
     </message>
     <message>
         <source>Wallet options:</source>

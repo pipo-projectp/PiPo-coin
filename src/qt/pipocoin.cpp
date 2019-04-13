@@ -1,6 +1,7 @@
 // Copyright (c) 2009-2014 The Bitcoin developers
 // Copyright (c) 2014-2015 The Dash developers
-// Copyright (c) 2015-2018 The PIPOCOIN developers
+// Copyright (c) 2015-2018 The PIVX developers
+// Copyright (c) 2019 The PiPoCoin developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -145,7 +146,7 @@ void DebugMessageHandler(QtMsgType type, const QMessageLogContext& context, cons
     LogPrint(category, "GUI: %s\n", msg.toStdString());
 }
 
-/** Class encapsulating PIPOCOIN Core startup and shutdown.
+/** Class encapsulating PiPoCoin Core startup and shutdown.
  * Allows running startup and shutdown in a different thread from the UI thread.
  */
 class BitcoinCore : public QObject
@@ -630,7 +631,7 @@ int main(int argc, char* argv[])
         app.createWindow(networkStyle.data());
         app.requestInitialize();
 #if defined(Q_OS_WIN)
-        WinShutdownMonitor::registerShutdownBlockReason(QObject::tr("PIPOCOIN Core didn't yet exit safely..."), (HWND)app.getMainWinId());
+        WinShutdownMonitor::registerShutdownBlockReason(QObject::tr("PiPoCoin Core didn't yet exit safely..."), (HWND)app.getMainWinId());
 #endif
         app.exec();
         app.requestShutdown();

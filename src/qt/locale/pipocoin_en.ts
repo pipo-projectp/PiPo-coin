@@ -946,12 +946,12 @@
     </message>
     <message>
         <location line="+4"/>
-        <source>Show the PIPOCOIN Core help message to get a list with possible PIPOCOIN command-line options</source>
+        <source>Show the PiPoCoin Core help message to get a list with possible PIPOCOIN command-line options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+234"/>
-        <source>PIPOCOIN Core client</source>
+        <source>PiPoCoin Core client</source>
         <translation type="unfinished"></translation>
     </message>
     <message numerus="yes">
@@ -1724,12 +1724,12 @@ Address: %4
     </message>
     <message>
         <location line="+26"/>
-        <source>As this is the first time the program is launched, you can choose where PIPOCOIN Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where PiPoCoin Core will store its data.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>PIPOCOIN Core will download and store a copy of the PIPOCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>PiPoCoin Core will download and store a copy of the PIPOCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4154,7 +4154,7 @@ Please be patient...</source>
     </message>
     <message>
         <location line="+40"/>
-        <source>PIPOCOIN Core didn&apos;t yet exit safely...</source>
+        <source>PiPoCoin Core didn&apos;t yet exit safely...</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5505,7 +5505,7 @@ Please be patient...</source>
     <name>ShutdownWindow</name>
     <message>
         <location filename="../utilitydialog.cpp" line="+75"/>
-        <source>PIPOCOIN Core is shutting down...</source>
+        <source>PiPoCoin Core is shutting down...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5720,7 +5720,7 @@ Please be patient...</source>
     </message>
     <message>
         <location line="+1"/>
-        <source>The PIPOCOIN Core developers</source>
+        <source>The PiPoCoin Core developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6583,7 +6583,7 @@ Please be patient...</source>
     </message>
     <message>
         <location line="+2"/>
-        <source>Cannot obtain a lock on data directory %s. PIPOCOIN Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. PiPoCoin Core is probably already running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6833,7 +6833,7 @@ Please be patient...</source>
     </message>
     <message>
         <location line="+3"/>
-        <source>Unable to bind to %s on this computer. PIPOCOIN Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. PiPoCoin Core is probably already running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6868,7 +6868,7 @@ Please be patient...</source>
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong PIPOCOIN Core will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong PiPoCoin Core will not work properly.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7073,7 +7073,7 @@ Please be patient...</source>
     </message>
     <message>
         <location line="+1"/>
-        <source>Copyright (C) 2015-%i The PIPOCOIN Core Developers</source>
+        <source>Copyright (C) 2015-%i The PiPoCoin Core Developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7348,7 +7348,7 @@ Please be patient...</source>
     </message>
     <message>
         <location line="+1"/>
-        <source>Initialization sanity check failed. PIPOCOIN Core is shutting down.</source>
+        <source>Initialization sanity check failed. PiPoCoin Core is shutting down.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8385,7 +8385,7 @@ Please be patient...</source>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart PIPOCOIN Core to complete</source>
+        <source>Wallet needed to be rewritten: restart PiPoCoin Core to complete</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

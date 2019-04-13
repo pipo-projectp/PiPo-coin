@@ -697,11 +697,11 @@
         <translation>Janela de exploração de blocos</translation>
     </message>
     <message>
-        <source>Show the PIPOCOIN Core help message to get a list with possible PIPOCOIN command-line options</source>
-        <translation>Mostra a ajuda da PIPOCOIN Core para receber uma lista com possíveis opções de linha de comando PIPOCOIN</translation>
+        <source>Show the PiPoCoin Core help message to get a list with possible PIPOCOIN command-line options</source>
+        <translation>Mostra a ajuda da PiPoCoin Core para receber uma lista com possíveis opções de linha de comando PIPOCOIN</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core client</source>
+        <source>PiPoCoin Core client</source>
         <translation>Cliente Core PIPOCOIN</translation>
     </message>
     <message>
@@ -1230,12 +1230,12 @@ MultiSend: %1</translation>
         <translation>Bem-vindo ao PIPOCOIN Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where PIPOCOIN Core will store its data.</source>
-        <translation>Como essa é a primeira vez que o programa é utilizado, você pode escolher onde PIPOCOIN Core vai armazenar os seus dados.</translation>
+        <source>As this is the first time the program is launched, you can choose where PiPoCoin Core will store its data.</source>
+        <translation>Como essa é a primeira vez que o programa é utilizado, você pode escolher onde PiPoCoin Core vai armazenar os seus dados.</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core will download and store a copy of the PIPOCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>PIPOCOIN Core vai baixar e armazenar uma cópia da blockchain PIPOCOIN. Pelo menos %1GB de informação será armazenado neste diretório e irá aumentar com o tempo. A carteira também será armazenada neste diretório.</translation>
+        <source>PiPoCoin Core will download and store a copy of the PIPOCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>PiPoCoin Core vai baixar e armazenar uma cópia da blockchain PIPOCOIN. Pelo menos %1GB de informação será armazenado neste diretório e irá aumentar com o tempo. A carteira também será armazenada neste diretório.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -2948,8 +2948,8 @@ https://www.transifex.com/pipo-project/PiPo-coin-project-translations</translati
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>PIPOCOIN Core is shutting down...</source>
-        <translation>PIPOCOIN Core está desligando...</translation>
+        <source>PiPoCoin Core is shutting down...</source>
+        <translation>PiPoCoin Core está desligando...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -3106,7 +3106,7 @@ https://www.transifex.com/pipo-project/PiPo-coin-project-translations</translati
         <translation>Os desenvolvedores do Dash Core</translation>
     </message>
     <message>
-        <source>The PIPOCOIN Core developers</source>
+        <source>The PiPoCoin Core developers</source>
         <translation>Os desenvolvedores do PIPOCOIN Core</translation>
     </message>
     <message>
@@ -3691,7 +3691,7 @@ https://www.transifex.com/pipo-project/PiPo-coin-project-translations</translati
         <translation>Aviso: -paytxfee está definido como muito alto! Está e a taxa de transação que você irá pagar se enviar uma transação.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong PIPOCOIN Core will not work properly.</source>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong PiPoCoin Core will not work properly.</source>
         <translation>Aviso: Favor verificar se o horário e data de seu computador estão corretos! Se o seu relógio estiver errado o Core PIPOCOIN não vai funcionar corretamente.</translation>
     </message>
     <message>
@@ -3771,7 +3771,7 @@ https://www.transifex.com/pipo-project/PiPo-coin-project-translations</translati
         <translation>Todos os direitos reservados (C) 2014-%i aos Desenvolvedores do Dash Core</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The PIPOCOIN Core Developers</source>
+        <source>Copyright (C) 2015-%i The PiPoCoin Core Developers</source>
         <translation>Todos os direitos reservados (C) 2015-%i aos Desenvolvedores do PIPOCOIN Core</translation>
     </message>
     <message>
@@ -4321,8 +4321,8 @@ https://www.transifex.com/pipo-project/PiPo-coin-project-translations</translati
         <translation>Carteira está travada.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart PIPOCOIN Core to complete</source>
-        <translation>A carteira precisa ser reescrita: reinicia o PIPOCOIN Core para completar</translation>
+        <source>Wallet needed to be rewritten: restart PiPoCoin Core to complete</source>
+        <translation>A carteira precisa ser reescrita: reinicia o PiPoCoin Core para completar</translation>
     </message>
     <message>
         <source>Wallet options:</source>

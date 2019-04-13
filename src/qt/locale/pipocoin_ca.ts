@@ -461,7 +461,7 @@
         <translation>Obre el fitxer de configuració del Masternode</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core client</source>
+        <source>PiPoCoin Core client</source>
         <translation>Client PIPOCOIN core</translation>
     </message>
     <message>
@@ -921,7 +921,7 @@
         <translation>Benvingut a PIPOCOIN Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where PIPOCOIN Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where PiPoCoin Core will store its data.</source>
         <translation>Al ser el primer cop que s'inicia el programa, pots escollir on es desaran les dades del PIPOCOIN Core.</translation>
     </message>
     <message>
@@ -1721,8 +1721,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>PIPOCOIN Core is shutting down...</source>
-        <translation>PIPOCOIN Core s'està tancant...</translation>
+        <source>PiPoCoin Core is shutting down...</source>
+        <translation>PiPoCoin Core s'està tancant...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>

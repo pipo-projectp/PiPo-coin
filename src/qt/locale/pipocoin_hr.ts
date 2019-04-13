@@ -685,8 +685,8 @@
         <translation>Otvori konfiguracijsku datoteku za Masternode</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core client</source>
-        <translation>PIPOCOIN Core klijent</translation>
+        <source>PiPoCoin Core client</source>
+        <translation>PiPoCoin Core klijent</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -1341,8 +1341,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>PIPOCOIN Core is shutting down...</source>
-        <translation>PIPOCOIN Core se gasi...</translation>
+        <source>PiPoCoin Core is shutting down...</source>
+        <translation>PiPoCoin Core se gasi...</translation>
     </message>
     </context>
 <context>

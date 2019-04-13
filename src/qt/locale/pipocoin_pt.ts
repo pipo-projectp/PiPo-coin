@@ -1260,8 +1260,8 @@
         <translation>Carteira esta bloqueada.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart PIPOCOIN Core to complete</source>
-        <translation>Carteira precisa ser reescrita: reinicie o PIPOCOIN Core para completar.</translation>
+        <source>Wallet needed to be rewritten: restart PiPoCoin Core to complete</source>
+        <translation>Carteira precisa ser reescrita: reinicie o PiPoCoin Core para completar.</translation>
     </message>
     <message>
         <source>Wallet options:</source>

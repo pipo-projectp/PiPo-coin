@@ -725,11 +725,11 @@
         <translation>Прозорец на блок сондата</translation>
     </message>
     <message>
-        <source>Show the PIPOCOIN Core help message to get a list with possible PIPOCOIN command-line options</source>
+        <source>Show the PiPoCoin Core help message to get a list with possible PIPOCOIN command-line options</source>
         <translation>Разкрийте Помощ за PIPOCOIN Ядрото, за да видите списък с възможни писмени команди.</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core client</source>
+        <source>PiPoCoin Core client</source>
         <translation>Клиент PIPOCOIN Ядро</translation>
     </message>
     <message>
@@ -1277,11 +1277,11 @@ Address: %4
         <translation>Добре Дошли в PIPOCOIN Ядрото</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where PIPOCOIN Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where PiPoCoin Core will store its data.</source>
         <translation>Тъй като това е първия път, в който стартирате програмата, имате възможността да изберете къде PIPOCOIN Ядрото ще съхранява своите данни.</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core will download and store a copy of the PIPOCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>PiPoCoin Core will download and store a copy of the PIPOCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>PIPOCOIN Ядрото ще изтегли и запише копие на целия PIPOCOIN блокчейн. Поне %1 гигабайта ще бъдат съхранявани в тази папка, като тенденцията е файла да расте. Портфейла също ще бъде запазен в тази папка.</translation>
     </message>
     <message>
@@ -3988,7 +3988,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>PIPOCOIN Core is shutting down...</source>
+        <source>PiPoCoin Core is shutting down...</source>
         <translation>Изключване на PIPOCOIN Ядрото...</translation>
     </message>
     <message>
@@ -4154,8 +4154,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Dash Core разработчици</translation>
     </message>
     <message>
-        <source>The PIPOCOIN Core developers</source>
-        <translation>PIPOCOIN Core разработчици</translation>
+        <source>The PiPoCoin Core developers</source>
+        <translation>PiPoCoin Core разработчици</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4799,7 +4799,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Изчисления чекпойнт на акумулатора не е същия като записания в блок индекса.</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. PIPOCOIN Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. PiPoCoin Core is probably already running.</source>
         <translation>Не може да заключи папката с данни %s. PIPOCOIN Портфейла вероятно вече е стартиран.</translation>
     </message>
     <message>
@@ -4971,7 +4971,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Този продукт включва софтуер разработен от OpenSSL Project &lt;https://www.openssl.org/&gt; и крипто софтуер написан от Ерик Юнг и UPnP софтуер от Томас Бернард.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. PIPOCOIN Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. PiPoCoin Core is probably already running.</source>
         <translation>Не може да се прикачи към %s на този компютър. PIPOCOIN Портфейла вероятно вече е стартиран.</translation>
     </message>
     <message>
@@ -4999,7 +4999,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Внимание: -paytxfee е зададена твърде голяма! Това е преводната такса, която ще платите ако изпратите този превод.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong PIPOCOIN Core will not work properly.</source>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong PiPoCoin Core will not work properly.</source>
         <translation>Внимание: Проверете дали датата и часа на компютъра са верни! Ако Вашият часовник греши, PIPOCOIN Портфейла няма да работи правилно.</translation>
     </message>
     <message>
@@ -5151,8 +5151,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Всички права запазени (c) 2014-%i Dash Core разработчици</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The PIPOCOIN Core Developers</source>
-        <translation>Всички права запазени (c) 2015-%i PIPOCOIN Core разработчици</translation>
+        <source>Copyright (C) 2015-%i The PiPoCoin Core Developers</source>
+        <translation>Всички права запазени (c) 2015-%i PiPoCoin Core разработчици</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5355,7 +5355,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Информация</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. PIPOCOIN Core is shutting down.</source>
+        <source>Initialization sanity check failed. PiPoCoin Core is shutting down.</source>
         <translation>Стартирането на проверка на здравословното състояние на портфейла се провали. Изключваме Портфейла.</translation>
     </message>
     <message>
@@ -6163,7 +6163,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Портфейла е заключен.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart PIPOCOIN Core to complete</source>
+        <source>Wallet needed to be rewritten: restart PiPoCoin Core to complete</source>
         <translation>Портфейла трябва да се пренапише: рестартирайте програмата за завършване на процеса</translation>
     </message>
     <message>

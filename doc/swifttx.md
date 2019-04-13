@@ -27,13 +27,13 @@ When a wallet SwiftX transaction is successfully locked a shell command provided
 
 Details pertaining to an observed "Transaction Lock" can also be retrieved through RPC, it’s important however to understand the underlying mechanism.
 
-By default, the PIPOCOIN Core daemon will launch using the following constant:
+By default, the PiPoCoin Core daemon will launch using the following constant:
 
 ```
 static const int DEFAULT_SWIFTTX_DEPTH = 5;
 ```
 
-This value can be overridden by passing the following argument to the PIPOCOIN Core daemon:
+This value can be overridden by passing the following argument to the PiPoCoin Core daemon:
 
 ```
 -swifttxdepth=<n>
