@@ -1,4 +1,4 @@
-Contributing to PIPOCOIN Core
+Contributing to PiPo Coin Core
 ============================
 
 The PiPoCoin Core project operates an open contributor model where anyone is

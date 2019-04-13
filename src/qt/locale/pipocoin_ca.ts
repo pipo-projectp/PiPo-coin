@@ -421,8 +421,8 @@
         <translation>A&amp;juda</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Send coins to a PIPOCOIN address</source>
@@ -437,8 +437,8 @@
         <translation>&amp;Masternodes</translation>
     </message>
     <message>
-        <source>&amp;About PIPOCOIN Core</source>
-        <translation>&amp;Sobre PIPOCOIN Core</translation>
+        <source>&amp;About PiPo Coin Core</source>
+        <translation>&amp;Sobre PiPo Coin Core</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -862,16 +862,16 @@
         <translation>versió</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About PIPOCOIN Core</source>
-        <translation>Sobre PIPOCOIN Core</translation>
+        <source>About PiPo Coin Core</source>
+        <translation>Sobre PiPo Coin Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -917,12 +917,12 @@
         <translation>Benvingut</translation>
     </message>
     <message>
-        <source>Welcome to PIPOCOIN Core.</source>
-        <translation>Benvingut a PIPOCOIN Core.</translation>
+        <source>Welcome to PiPo Coin Core.</source>
+        <translation>Benvingut a PiPo Coin Core.</translation>
     </message>
     <message>
         <source>As this is the first time the program is launched, you can choose where PiPoCoin Core will store its data.</source>
-        <translation>Al ser el primer cop que s'inicia el programa, pots escollir on es desaran les dades del PIPOCOIN Core.</translation>
+        <translation>Al ser el primer cop que s'inicia el programa, pots escollir on es desaran les dades del PiPo Coin Core.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -933,8 +933,8 @@
         <translation>Usar una carpeta de dades personalitzada:</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1397,8 +1397,8 @@
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     </context>
 <context>
@@ -1787,8 +1787,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Version %1</source>

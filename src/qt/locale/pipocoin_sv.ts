@@ -649,8 +649,8 @@
         <translation>flik vertygsrad</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Send coins to a PIPOCOIN address</source>
@@ -673,11 +673,11 @@
         <translation>Utforska masternoder</translation>
     </message>
     <message>
-        <source>&amp;About PIPOCOIN Core</source>
+        <source>&amp;About PiPo Coin Core</source>
         <translation>Om PIPOCOIN Kärnan</translation>
     </message>
     <message>
-        <source>Show information about PIPOCOIN Core</source>
+        <source>Show information about PiPo Coin Core</source>
         <translation>Visa information om PIPOCOIN Kärnan</translation>
     </message>
     <message>
@@ -1246,15 +1246,15 @@ MultiSend: %1</translation>
         <translation>version</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About PIPOCOIN Core</source>
+        <source>About PiPo Coin Core</source>
         <translation>Om PIPOCOIN Kärna</translation>
     </message>
     <message>
@@ -1301,8 +1301,8 @@ MultiSend: %1</translation>
         <translation>Välkommen</translation>
     </message>
     <message>
-        <source>Welcome to PIPOCOIN Core.</source>
-        <translation>Välkommen till PIPOCOIN Core.</translation>
+        <source>Welcome to PiPo Coin Core.</source>
+        <translation>Välkommen till PiPo Coin Core.</translation>
     </message>
     <message>
         <source>As this is the first time the program is launched, you can choose where PiPoCoin Core will store its data.</source>
@@ -1321,8 +1321,8 @@ MultiSend: %1</translation>
         <translation>Använd en skräddarsydd data katalog</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -3112,8 +3112,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     </context>
 <context>
@@ -4298,8 +4298,8 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -5431,7 +5431,7 @@ Minta antingen högre valörer (så att färre inputs behövs) eller spendera mi
         <translation>Fel vid laddning av wallet.dat: Plånbok korrupterad</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of PIPOCOIN Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of PiPo Coin Core</source>
         <translation>Fel vid laddning av wallet.dat: Plånbok  kräver nyare PIPOCOIN Kärna version</translation>
     </message>
     <message>

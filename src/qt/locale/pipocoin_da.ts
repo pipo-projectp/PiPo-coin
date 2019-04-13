@@ -645,7 +645,7 @@
         <translation>Værktøjslinier</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation>PIPOCOIN kerne</translation>
     </message>
     <message>
@@ -669,11 +669,11 @@
         <translation>Vis masternoder</translation>
     </message>
     <message>
-        <source>&amp;About PIPOCOIN Core</source>
+        <source>&amp;About PiPo Coin Core</source>
         <translation>&amp;Om PIPOCOIN kerne</translation>
     </message>
     <message>
-        <source>Show information about PIPOCOIN Core</source>
+        <source>Show information about PiPo Coin Core</source>
         <translation>Vis information om PIPOCOIN kerne</translation>
     </message>
     <message>
@@ -1242,7 +1242,7 @@ Adresse: %4
         <translation>version</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation>PIPOCOIN kerne</translation>
     </message>
     <message>
@@ -1250,7 +1250,7 @@ Adresse: %4
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About PIPOCOIN Core</source>
+        <source>About PiPo Coin Core</source>
         <translation>om PIPOCOIN kerne</translation>
     </message>
     <message>
@@ -1297,7 +1297,7 @@ Adresse: %4
         <translation>Velkommen</translation>
     </message>
     <message>
-        <source>Welcome to PIPOCOIN Core.</source>
+        <source>Welcome to PiPo Coin Core.</source>
         <translation>Velkommen til PIPOCOIN kerne</translation>
     </message>
     <message>
@@ -1317,7 +1317,7 @@ Adresse: %4
         <translation>Anvend en mappe valgt af brugeren</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation>PIPOCOIN kerne</translation>
     </message>
     <message>
@@ -3034,7 +3034,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation>PIPOCOIN kerne</translation>
     </message>
     </context>
@@ -4200,7 +4200,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation>PIPOCOIN kerne</translation>
     </message>
     <message>
@@ -5322,7 +5322,7 @@ Enten mint højere nomineringer (så færre input er nødvendige) eller reducere
         <translation>Fejl ved indlæsning af wallet.dat: Tegnebogen er beskadiget</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of PIPOCOIN Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of PiPo Coin Core</source>
         <translation>Fejl ved indlæsning af wallet.dat: Tegnebogen kræver en nyere version af PIPOCOIN core</translation>
     </message>
     <message>

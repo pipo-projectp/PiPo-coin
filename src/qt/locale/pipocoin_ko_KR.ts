@@ -641,8 +641,8 @@
         <translation>탭 도구 모음</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Send coins to a PIPOCOIN address</source>
@@ -665,12 +665,12 @@
         <translation>마스터노드 검색</translation>
     </message>
     <message>
-        <source>&amp;About PIPOCOIN Core</source>
+        <source>&amp;About PiPo Coin Core</source>
         <translation>PiPoCoin Core &amp;정보</translation>
     </message>
     <message>
-        <source>Show information about PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core에 대한 정보 표시</translation>
+        <source>Show information about PiPo Coin Core</source>
+        <translation>PiPo Coin Core에 대한 정보 표시</translation>
     </message>
     <message>
         <source>Modify configuration options for PIPOCOIN</source>
@@ -1218,15 +1218,15 @@ Address: %4
         <translation>버전</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About PIPOCOIN Core</source>
+        <source>About PiPo Coin Core</source>
         <translation>PiPoCoin Core 정보</translation>
     </message>
     <message>
@@ -1273,16 +1273,16 @@ Address: %4
         <translation>환영합니다</translation>
     </message>
     <message>
-        <source>Welcome to PIPOCOIN Core.</source>
-        <translation>PIPOCOIN Core에 오신 것을 환영합니다.</translation>
+        <source>Welcome to PiPo Coin Core.</source>
+        <translation>PiPo Coin Core에 오신 것을 환영합니다.</translation>
     </message>
     <message>
         <source>As this is the first time the program is launched, you can choose where PiPoCoin Core will store its data.</source>
-        <translation>이 프로그램이 처음 실행되었으므로 PIPOCOIN Core가 데이터를 저장할 위치를 선택할 수 있습니다.</translation>
+        <translation>이 프로그램이 처음 실행되었으므로 PiPo Coin Core가 데이터를 저장할 위치를 선택할 수 있습니다.</translation>
     </message>
     <message>
         <source>PiPoCoin Core will download and store a copy of the PIPOCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>PIPOCOIN Core는 PIPOCOIN 블록체인을 다운로드하여 저장합니다. 최소 %1GB의 데이터가 디렉토리에 저장되며 시간이 지날수록 증가합니다. 또한 지갑도 해당 디렉토리에 저장됩니다.</translation>
+        <translation>PiPo Coin Core는 PIPOCOIN 블록체인을 다운로드하여 저장합니다. 최소 %1GB의 데이터가 디렉토리에 저장되며 시간이 지날수록 증가합니다. 또한 지갑도 해당 디렉토리에 저장됩니다.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1293,8 +1293,8 @@ Address: %4
         <translation>사용자 지정 데이터 디렉토리 사용:</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -2987,8 +2987,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     </context>
 <context>
@@ -3997,7 +3997,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     <name>ShutdownWindow</name>
     <message>
         <source>PiPoCoin Core is shutting down...</source>
-        <translation>PIPOCOIN Core가 종료됩니다...</translation>
+        <translation>PiPo Coin Core가 종료됩니다...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -4146,8 +4146,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -4809,7 +4809,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <source>Cannot obtain a lock on data directory %s. PiPoCoin Core is probably already running.</source>
-        <translation>        &lt;translation&gt;잠겨진 데이터 디렉토리 %s 를 가져올 수 없습니다. PIPOCOIN Core는 이미 실행 중입니다.</translation>
+        <translation>        &lt;translation&gt;잠겨진 데이터 디렉토리 %s 를 가져올 수 없습니다. PiPo Coin Core는 이미 실행 중입니다.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -4985,7 +4985,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <source>Unable to bind to %s on this computer. PiPoCoin Core is probably already running.</source>
-        <translation>이 컴퓨터를 %s 로 지정하는것은 불가능합니다. PIPOCOIN Core는 이미 실행 중입니다.</translation>
+        <translation>이 컴퓨터를 %s 로 지정하는것은 불가능합니다. PiPo Coin Core는 이미 실행 중입니다.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
@@ -5252,7 +5252,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>wallet.dat을 불러오는 중 오류가 발생했습니다: 지갑 손상됨</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of PIPOCOIN Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of PiPo Coin Core</source>
         <translation>wallet.dat를 로드하는 중 오류가 발생했습니다. 지갑에 최신 버전의 PIPOCOIN 코어가 필요합니다.</translation>
     </message>
     <message>
@@ -5377,7 +5377,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <source>Initialization sanity check failed. PiPoCoin Core is shutting down.</source>
-        <translation>초기화 정확성 검사에 실패 했습니다. PIPOCOIN Core가 종료됩니다.</translation>
+        <translation>초기화 정확성 검사에 실패 했습니다. PiPo Coin Core가 종료됩니다.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>

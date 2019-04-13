@@ -617,8 +617,8 @@
         <translation>Alatna traka kartica</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Send coins to a PIPOCOIN address</source>
@@ -641,12 +641,12 @@
         <translation>Pregledajte masternode</translation>
     </message>
     <message>
-        <source>&amp;About PIPOCOIN Core</source>
-        <translation>&amp; O PIPOCOIN Coreu</translation>
+        <source>&amp;About PiPo Coin Core</source>
+        <translation>&amp; O PiPo Coin Coreu</translation>
     </message>
     <message>
-        <source>Show information about PIPOCOIN Core</source>
-        <translation>Prikaz informacija o PIPOCOIN Coreu</translation>
+        <source>Show information about PiPo Coin Core</source>
+        <translation>Prikaz informacija o PiPo Coin Coreu</translation>
     </message>
     <message>
         <source>Modify configuration options for PIPOCOIN</source>
@@ -922,15 +922,15 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1077,8 +1077,8 @@
         <translation>N/A</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     </context>
 <context>
@@ -1427,8 +1427,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Version %1</source>

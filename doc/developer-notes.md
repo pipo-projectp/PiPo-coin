@@ -182,7 +182,7 @@ Ignoring IDE/editor files
 In closed-source environments in which everyone uses the same IDE it is common
 to add temporary files it produces to the project-wide `.gitignore` file.
 
-However, in open source software such as PIPOCOIN Core, where everyone uses
+However, in open source software such as PiPo Coin Core, where everyone uses
 their own editors/IDE/tools, it is less common. Only you know what files your
 editor produces and this may change from version to version. The canonical way
 to do this is thus to create your local gitignore. Add this to `~/.gitconfig`:
@@ -214,7 +214,7 @@ Development guidelines
 A few non-style-related recommendations for developers, as well as points to
 pay attention to for reviewers of PiPoCoin Core code.
 
-General PIPOCOIN Core
+General PiPo Coin Core
 ----------------------
 
 - New features should be exposed on RPC first, then can be made available in the GUI

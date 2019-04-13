@@ -565,7 +565,7 @@
         <translation>&amp;Apua</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation>PIPOCOIN Ydin</translation>
     </message>
     <message>
@@ -585,11 +585,11 @@
         <translation>Selaa masternodeja</translation>
     </message>
     <message>
-        <source>&amp;About PIPOCOIN Core</source>
+        <source>&amp;About PiPo Coin Core</source>
         <translation>PiPoCoin Core &amp;ytimestä</translation>
     </message>
     <message>
-        <source>Show information about PIPOCOIN Core</source>
+        <source>Show information about PiPo Coin Core</source>
         <translation>Näytä tietoja PIPOCOIN Ytimestä</translation>
     </message>
     <message>
@@ -919,7 +919,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation>PIPOCOIN Ydin</translation>
     </message>
     <message>
@@ -938,11 +938,11 @@
         <translation>Tervetuloa</translation>
     </message>
     <message>
-        <source>Welcome to PIPOCOIN Core.</source>
+        <source>Welcome to PiPo Coin Core.</source>
         <translation>Tervetuloa PIPOCOIN Ytimeen.</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation>PIPOCOIN Ydin</translation>
     </message>
     <message>
@@ -1466,7 +1466,7 @@
         <translation>Määrä</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation>PIPOCOIN Ydin</translation>
     </message>
     </context>
@@ -2196,7 +2196,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation>PIPOCOIN Ydin</translation>
     </message>
     <message>
@@ -2565,8 +2565,8 @@
         <translation>Virhe ladattaessa wallet.dat tiedostoa: Lompakko korruptoitunut</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of PIPOCOIN Core</source>
-        <translation>Virhe ladattaessa wallet.dat tiedostoa: Lompakko vaatii uudemman version PIPOCOIN Coresta</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of PiPo Coin Core</source>
+        <translation>Virhe ladattaessa wallet.dat tiedostoa: Lompakko vaatii uudemman version PiPo Coin Coresta</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>

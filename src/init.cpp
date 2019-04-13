@@ -1680,7 +1680,7 @@ bool AppInit2()
                              " or address book entries might be missing or incorrect."));
                 InitWarning(msg);
             } else if (nLoadWalletRet == DB_TOO_NEW)
-                strErrors << _("Error loading wallet.dat: Wallet requires newer version of PIPOCOIN Core") << "\n";
+                strErrors << _("Error loading wallet.dat: Wallet requires newer version of PiPo Coin Core") << "\n";
             else if (nLoadWalletRet == DB_NEED_REWRITE) {
                 strErrors << _("Wallet needed to be rewritten: restart PiPoCoin Core to complete") << "\n";
                 LogPrintf("%s", strErrors.str());

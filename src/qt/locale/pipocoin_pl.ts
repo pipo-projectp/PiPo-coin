@@ -659,7 +659,7 @@ odszyfrowany i aktualnie odblokowany tylko do anonimizacji i stakingu</translati
         <translation>Pasek narzędzi</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation>Rdzeń PIPOCOIN</translation>
     </message>
     <message>
@@ -683,12 +683,12 @@ odszyfrowany i aktualnie odblokowany tylko do anonimizacji i stakingu</translati
         <translation>Przeglądaj masternodes</translation>
     </message>
     <message>
-        <source>&amp;About PIPOCOIN Core</source>
-        <translation>&amp;O PIPOCOIN Core</translation>
+        <source>&amp;About PiPo Coin Core</source>
+        <translation>&amp;O PiPo Coin Core</translation>
     </message>
     <message>
-        <source>Show information about PIPOCOIN Core</source>
-        <translation>Pokaż informacje o PIPOCOIN Core</translation>
+        <source>Show information about PiPo Coin Core</source>
+        <translation>Pokaż informacje o PiPo Coin Core</translation>
     </message>
     <message>
         <source>Modify configuration options for PIPOCOIN</source>
@@ -1292,7 +1292,7 @@ MultiWysyłlka: %1</translation>
         <translation>Wersja</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation>Rdzeń PIPOCOIN</translation>
     </message>
     <message>
@@ -1300,8 +1300,8 @@ MultiWysyłlka: %1</translation>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About PIPOCOIN Core</source>
-        <translation>O PIPOCOIN Core</translation>
+        <source>About PiPo Coin Core</source>
+        <translation>O PiPo Coin Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1347,8 +1347,8 @@ MultiWysyłlka: %1</translation>
         <translation>Zapraszamy</translation>
     </message>
     <message>
-        <source>Welcome to PIPOCOIN Core.</source>
-        <translation>Zapraszamy do PIPOCOIN Core</translation>
+        <source>Welcome to PiPo Coin Core.</source>
+        <translation>Zapraszamy do PiPo Coin Core</translation>
     </message>
     <message>
         <source>As this is the first time the program is launched, you can choose where PiPoCoin Core will store its data.</source>
@@ -1367,7 +1367,7 @@ MultiWysyłlka: %1</translation>
         <translation>Użyj niestandardowej ścieżki danych</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation>Rdzeń PIPOCOIN</translation>
     </message>
     <message>
@@ -3239,8 +3239,8 @@ Proszę być cierpliwym...</translation>
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
@@ -4449,8 +4449,8 @@ Proszę być cierpliwym...</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -4466,7 +4466,7 @@ Proszę być cierpliwym...</translation>
     </message>
     <message>
         <source>The PiPoCoin Core developers</source>
-        <translation>Twórcy PIPOCOIN Core</translation>
+        <translation>Twórcy PiPo Coin Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -5390,8 +5390,8 @@ Proszę być cierpliwym...</translation>
         <translation>Wystąpił błąd podczas ładowania pliku wallet.dat: Portfel uszkodzony</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of PIPOCOIN Core</source>
-        <translation>Błąd ładowania pliku wallet.dat: Portfel wymaga nowszej wersji PIPOCOIN Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of PiPo Coin Core</source>
+        <translation>Błąd ładowania pliku wallet.dat: Portfel wymaga nowszej wersji PiPo Coin Core</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -5859,7 +5859,7 @@ Proszę być cierpliwym...</translation>
     </message>
     <message>
         <source>Wallet needed to be rewritten: restart PiPoCoin Core to complete</source>
-        <translation>Portfel musiał zostać przepisany: zrestartuj PIPOCOIN Core, aby zakończyć</translation>
+        <translation>Portfel musiał zostać przepisany: zrestartuj PiPo Coin Core, aby zakończyć</translation>
     </message>
     <message>
         <source>Wallet options:</source>

@@ -54,7 +54,7 @@ System requirements
 --------------------
 
 C++ compilers are memory-hungry. It is recommended to have at least 1 GB of
-memory available when compiling PIPOCOIN Core. With 512MB of memory or less
+memory available when compiling PiPo Coin Core. With 512MB of memory or less
 compilation will take much longer due to swap thrashing.
 
 ## Linux Distribution Specific Instructions

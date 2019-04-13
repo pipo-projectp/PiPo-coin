@@ -645,7 +645,7 @@
         <translation>Sekme tablosu</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation>PIPOCOIN CORE</translation>
     </message>
     <message>
@@ -669,11 +669,11 @@
         <translation>Masternodları ara</translation>
     </message>
     <message>
-        <source>&amp;About PIPOCOIN Core</source>
+        <source>&amp;About PiPo Coin Core</source>
         <translation>Pıvx core Hakkında</translation>
     </message>
     <message>
-        <source>Show information about PIPOCOIN Core</source>
+        <source>Show information about PiPo Coin Core</source>
         <translation>Pıvx Core hakkında bilgi göster</translation>
     </message>
     <message>
@@ -1219,7 +1219,7 @@ Adres: %4
         <translation>versiyon</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation>PIPOCOIN CORE</translation>
     </message>
     <message>
@@ -1227,8 +1227,8 @@ Adres: %4
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About PIPOCOIN Core</source>
-        <translation>hakkında PIPOCOIN Core</translation>
+        <source>About PiPo Coin Core</source>
+        <translation>hakkında PiPo Coin Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1274,16 +1274,16 @@ Adres: %4
         <translation>Hoşgeldiniz</translation>
     </message>
     <message>
-        <source>Welcome to PIPOCOIN Core.</source>
-        <translation>PIPOCOIN Core'a hoşgeldiniz.</translation>
+        <source>Welcome to PiPo Coin Core.</source>
+        <translation>PiPo Coin Core'a hoşgeldiniz.</translation>
     </message>
     <message>
         <source>As this is the first time the program is launched, you can choose where PiPoCoin Core will store its data.</source>
-        <translation>Program ilk başlatıldığında PIPOCOIN Core'un verilerini nerede saklayacağını seçebilirsiniz.</translation>
+        <translation>Program ilk başlatıldığında PiPo Coin Core'un verilerini nerede saklayacağını seçebilirsiniz.</translation>
     </message>
     <message>
         <source>PiPoCoin Core will download and store a copy of the PIPOCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>PIPOCOIN Core, PIPOCOIN blok zincirinin bir kopyasını indirecek ve depolayacaktır. Bu dizinde en az %1GB veri saklanacak ve zamanla büyüyecek. Cüzdan ayrıca bu dizinde saklanır.</translation>
+        <translation>PiPo Coin Core, PIPOCOIN blok zincirinin bir kopyasını indirecek ve depolayacaktır. Bu dizinde en az %1GB veri saklanacak ve zamanla büyüyecek. Cüzdan ayrıca bu dizinde saklanır.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1294,7 +1294,7 @@ Adres: %4
         <translation>Özel bir veri dizini kullanın:</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation>PIPOCOIN CORE</translation>
     </message>
     <message>
@@ -2868,7 +2868,7 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation>PIPOCOIN CORE</translation>
     </message>
     </context>
@@ -3942,7 +3942,7 @@ Ya daha yüksek mezhepleri daraltın (daha az girdi gereklidir) veya harcama mik
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation>PIPOCOIN CORE</translation>
     </message>
     <message>

@@ -841,7 +841,7 @@
     <message>
         <location line="-448"/>
         <location line="+938"/>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -871,12 +871,12 @@
     </message>
     <message>
         <location line="+43"/>
-        <source>&amp;About PIPOCOIN Core</source>
+        <source>&amp;About PiPo Coin Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about PIPOCOIN Core</source>
+        <source>Show information about PiPo Coin Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1650,7 +1650,7 @@ Address: %4
     </message>
     <message>
         <location line="+0"/>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1661,7 +1661,7 @@ Address: %4
     </message>
     <message>
         <location line="+4"/>
-        <source>About PIPOCOIN Core</source>
+        <source>About PiPo Coin Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1719,7 +1719,7 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Welcome to PIPOCOIN Core.</source>
+        <source>Welcome to PiPo Coin Core.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1744,7 +1744,7 @@ Address: %4
     </message>
     <message>
         <location filename="../intro.cpp" line="+77"/>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4129,7 +4129,7 @@ Please be patient...</source>
         <location line="+7"/>
         <location line="+13"/>
         <location line="+19"/>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5700,7 +5700,7 @@ Please be patient...</source>
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+36"/>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7193,7 +7193,7 @@ Please be patient...</source>
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of PIPOCOIN Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of PiPo Coin Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

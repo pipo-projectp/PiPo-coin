@@ -13,7 +13,7 @@
  * for both pipocoind and pipocoin-qt, to make it harder for attackers to
  * target servers or GUI users specifically.
  */
-const std::string CLIENT_NAME("PIPOCOIN Core");
+const std::string CLIENT_NAME("PiPo Coin Core");
 
 /**
  * Client version number

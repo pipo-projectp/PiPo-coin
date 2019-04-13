@@ -1,6 +1,6 @@
 <!--- Remove this description and sections that do not apply -->
 
-This issue tracker is only for technical issues related to PIPOCOIN Core.
+This issue tracker is only for technical issues related to PiPo Coin Core.
 General PIPOCOIN questions and/or support requests and are best directed to the [PIPOCOIN Discord](https://discord.pipocoin.org).
 
 ### Describe the issue

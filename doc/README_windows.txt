@@ -1,4 +1,4 @@
-PIPOCOIN Core
+PiPo Coin Core
 =====================
 
 Intro

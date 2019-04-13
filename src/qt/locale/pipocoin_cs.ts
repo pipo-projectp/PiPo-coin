@@ -601,8 +601,8 @@
         <translation>Nástrojová lišta záložek</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Send coins to a PIPOCOIN address</source>
@@ -625,12 +625,12 @@
         <translation>Procházet masternody</translation>
     </message>
     <message>
-        <source>&amp;About PIPOCOIN Core</source>
-        <translation>&amp;O PIPOCOIN Core</translation>
+        <source>&amp;About PiPo Coin Core</source>
+        <translation>&amp;O PiPo Coin Core</translation>
     </message>
     <message>
-        <source>Show information about PIPOCOIN Core</source>
-        <translation>Zobraz informace o PIPOCOIN Core</translation>
+        <source>Show information about PiPo Coin Core</source>
+        <translation>Zobraz informace o PiPo Coin Core</translation>
     </message>
     <message>
         <source>Modify configuration options for PIPOCOIN</source>
@@ -1138,12 +1138,12 @@ MultiSend: %1</translation>
         <translation>verze</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
-        <source>About PIPOCOIN Core</source>
-        <translation>O PIPOCOIN Core</translation>
+        <source>About PiPo Coin Core</source>
+        <translation>O PiPo Coin Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1177,8 +1177,8 @@ MultiSend: %1</translation>
         <translation>Vítejte</translation>
     </message>
     <message>
-        <source>Welcome to PIPOCOIN Core.</source>
-        <translation>Vítejte v PIPOCOIN Core.</translation>
+        <source>Welcome to PiPo Coin Core.</source>
+        <translation>Vítejte v PiPo Coin Core.</translation>
     </message>
     <message>
         <source>As this is the first time the program is launched, you can choose where PiPoCoin Core will store its data.</source>
@@ -1197,8 +1197,8 @@ MultiSend: %1</translation>
         <translation>Použít vlastní složku pro data</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1753,8 +1753,8 @@ MultiSend: %1</translation>
         <translation>N/A</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     </context>
 <context>
@@ -2283,8 +2283,8 @@ MultiSend: %1</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     </context>
 <context>

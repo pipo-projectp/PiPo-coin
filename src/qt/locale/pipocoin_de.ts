@@ -641,8 +641,8 @@
         <translation>Registerkartenleiste</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Send coins to a PIPOCOIN address</source>
@@ -665,12 +665,12 @@
         <translation>Masternodes durchsuchen</translation>
     </message>
     <message>
-        <source>&amp;About PIPOCOIN Core</source>
-        <translation>Über PIPOCOIN Core</translation>
+        <source>&amp;About PiPo Coin Core</source>
+        <translation>Über PiPo Coin Core</translation>
     </message>
     <message>
-        <source>Show information about PIPOCOIN Core</source>
-        <translation>Zeigt Informationen über PIPOCOIN Core</translation>
+        <source>Show information about PiPo Coin Core</source>
+        <translation>Zeigt Informationen über PiPo Coin Core</translation>
     </message>
     <message>
         <source>Modify configuration options for PIPOCOIN</source>
@@ -1213,16 +1213,16 @@ Adresse: %4</translation>
         <translation>Version</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-Bit)</translation>
     </message>
     <message>
-        <source>About PIPOCOIN Core</source>
-        <translation>Über PIPOCOIN Core</translation>
+        <source>About PiPo Coin Core</source>
+        <translation>Über PiPo Coin Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1268,8 +1268,8 @@ Adresse: %4</translation>
         <translation>Willkommen</translation>
     </message>
     <message>
-        <source>Welcome to PIPOCOIN Core.</source>
-        <translation>Willkommen zu PIPOCOIN Core.</translation>
+        <source>Welcome to PiPo Coin Core.</source>
+        <translation>Willkommen zu PiPo Coin Core.</translation>
     </message>
     <message>
         <source>As this is the first time the program is launched, you can choose where PiPoCoin Core will store its data.</source>
@@ -1288,8 +1288,8 @@ Adresse: %4</translation>
         <translation>Ein benutzerdefiniertes Datenverzeichnis verwenden:</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -2979,8 +2979,8 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>%1 Ms</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     </context>
 <context>
@@ -4137,8 +4137,8 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -5242,7 +5242,7 @@ Präge entweder höhere Stückelungen (damit weniger Eingaben benötigt werdenn)
         <translation>Fehler beim Laden von wallet.dat : Wallet beschädigt</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of PIPOCOIN Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of PiPo Coin Core</source>
         <translation>Fehler beim Laden der wallet.dat: Neuere PiPoCoin Core Version benötigt</translation>
     </message>
     <message>

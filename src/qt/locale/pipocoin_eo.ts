@@ -641,7 +641,7 @@
         <translation>Iloj langeto</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation>PIPOCOIN kerno</translation>
     </message>
     <message>
@@ -665,11 +665,11 @@
         <translation>Foliumi mastro-nodo</translation>
     </message>
     <message>
-        <source>&amp;About PIPOCOIN Core</source>
+        <source>&amp;About PiPo Coin Core</source>
         <translation>&amp;Pri PIPOCOIN Kerno</translation>
     </message>
     <message>
-        <source>Show information about PIPOCOIN Core</source>
+        <source>Show information about PiPo Coin Core</source>
         <translation>Montri informon pri PIPOCOIN Kerno</translation>
     </message>
     <message>
@@ -1210,7 +1210,7 @@ Muktisendi: %1</translation>
         <translation>versio</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation>PIPOCOIN kerno</translation>
     </message>
     <message>
@@ -1218,7 +1218,7 @@ Muktisendi: %1</translation>
         <translation>(%1-bajto)</translation>
     </message>
     <message>
-        <source>About PIPOCOIN Core</source>
+        <source>About PiPo Coin Core</source>
         <translation>Pri PIPOCOIN Kerno</translation>
     </message>
     <message>
@@ -1261,7 +1261,7 @@ Muktisendi: %1</translation>
         <translation>Bonvenon</translation>
     </message>
     <message>
-        <source>Welcome to PIPOCOIN Core.</source>
+        <source>Welcome to PiPo Coin Core.</source>
         <translation>Bonvenon al la PIPOCOIN Kerno.</translation>
     </message>
     <message>
@@ -1281,7 +1281,7 @@ Muktisendi: %1</translation>
         <translation>Uzi kutimon datumojn dosierujo:</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation>PIPOCOIN kerno</translation>
     </message>
     <message>
@@ -1995,7 +1995,7 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>NEKONATA</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation>PIPOCOIN kerno</translation>
     </message>
     </context>
@@ -2425,7 +2425,7 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation>PIPOCOIN kerno</translation>
     </message>
     <message>

@@ -641,8 +641,8 @@
         <translation>Alatna traka kartica</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Send coins to a PIPOCOIN address</source>
@@ -665,12 +665,12 @@
         <translation>Pretraži masternodes</translation>
     </message>
     <message>
-        <source>&amp;About PIPOCOIN Core</source>
-        <translation>O PIPOCOIN Core</translation>
+        <source>&amp;About PiPo Coin Core</source>
+        <translation>O PiPo Coin Core</translation>
     </message>
     <message>
-        <source>Show information about PIPOCOIN Core</source>
-        <translation>Prikaz informacija o PIPOCOIN Core-u</translation>
+        <source>Show information about PiPo Coin Core</source>
+        <translation>Prikaz informacija o PiPo Coin Core-u</translation>
     </message>
     <message>
         <source>Modify configuration options for PIPOCOIN</source>
@@ -1218,16 +1218,16 @@ Višestruko slanje: %1</translation>
         <translation>verzija</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About PIPOCOIN Core</source>
-        <translation>O PIPOCOIN Core</translation>
+        <source>About PiPo Coin Core</source>
+        <translation>O PiPo Coin Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1273,8 +1273,8 @@ Višestruko slanje: %1</translation>
         <translation>Dobrodošli</translation>
     </message>
     <message>
-        <source>Welcome to PIPOCOIN Core.</source>
-        <translation>Dobrodošli u PIPOCOIN Core.</translation>
+        <source>Welcome to PiPo Coin Core.</source>
+        <translation>Dobrodošli u PiPo Coin Core.</translation>
     </message>
     <message>
         <source>As this is the first time the program is launched, you can choose where PiPoCoin Core will store its data.</source>
@@ -1293,8 +1293,8 @@ Višestruko slanje: %1</translation>
         <translation>Koristite prilagođeni direktorij podataka:</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -2987,8 +2987,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     </context>
 <context>
@@ -4149,8 +4149,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -5256,7 +5256,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Pogreška pri učitavanju wallet.dat: novčanik oštećen</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of PIPOCOIN Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of PiPo Coin Core</source>
         <translation>Pogreška prilikom učitavanja wallet.dat: Novčanik zahtijeva noviju verziju PIPOCOIN jezgre</translation>
     </message>
     <message>
@@ -6184,7 +6184,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <source>Wallet needed to be rewritten: restart PiPoCoin Core to complete</source>
-        <translation>Potrebno je prepisati novčanik: ponovo pokrenite PIPOCOIN Core</translation>
+        <translation>Potrebno je prepisati novčanik: ponovo pokrenite PiPo Coin Core</translation>
     </message>
     <message>
         <source>Wallet options:</source>

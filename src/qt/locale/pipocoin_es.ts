@@ -641,8 +641,8 @@
         <translation>Herramienta de pestañas</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Send coins to a PIPOCOIN address</source>
@@ -665,12 +665,12 @@
         <translation>Explorar masternodes</translation>
     </message>
     <message>
-        <source>&amp;About PIPOCOIN Core</source>
-        <translation>&amp;Sobre PIPOCOIN Core</translation>
+        <source>&amp;About PiPo Coin Core</source>
+        <translation>&amp;Sobre PiPo Coin Core</translation>
     </message>
     <message>
-        <source>Show information about PIPOCOIN Core</source>
-        <translation>Mostrar información sobre PIPOCOIN Core</translation>
+        <source>Show information about PiPo Coin Core</source>
+        <translation>Mostrar información sobre PiPo Coin Core</translation>
     </message>
     <message>
         <source>Modify configuration options for PIPOCOIN</source>
@@ -730,7 +730,7 @@
     </message>
     <message>
         <source>PiPoCoin Core client</source>
-        <translation>Cliente PIPOCOIN Core</translation>
+        <translation>Cliente PiPo Coin Core</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1234,16 +1234,16 @@ MultiEnvío: %1</translation>
         <translation>versión</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About PIPOCOIN Core</source>
-        <translation>Acerca de PIPOCOIN Core</translation>
+        <source>About PiPo Coin Core</source>
+        <translation>Acerca de PiPo Coin Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1289,8 +1289,8 @@ MultiEnvío: %1</translation>
         <translation>Bienvenido/a</translation>
     </message>
     <message>
-        <source>Welcome to PIPOCOIN Core.</source>
-        <translation>Bienvenido/a a PIPOCOIN Core.</translation>
+        <source>Welcome to PiPo Coin Core.</source>
+        <translation>Bienvenido/a a PiPo Coin Core.</translation>
     </message>
     <message>
         <source>As this is the first time the program is launched, you can choose where PiPoCoin Core will store its data.</source>
@@ -1309,8 +1309,8 @@ MultiEnvío: %1</translation>
         <translation>Usar una carpeta de datos personalizada:</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -3050,8 +3050,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     </context>
 <context>
@@ -4208,8 +4208,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -4225,7 +4225,7 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
     </message>
     <message>
         <source>The PiPoCoin Core developers</source>
-        <translation>Los desarrolladores de PIPOCOIN Core</translation>
+        <translation>Los desarrolladores de PiPo Coin Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -5313,8 +5313,8 @@ O mint las denominaciones más altas (por lo tanto, se necesitan menos datos) o 
         <translation>Error al cargar wallet.dat: Monedero dañado</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of PIPOCOIN Core</source>
-        <translation>Error al cargar wallet.dat: El monedero requiere una nueva versión del PIPOCOIN Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of PiPo Coin Core</source>
+        <translation>Error al cargar wallet.dat: El monedero requiere una nueva versión del PiPo Coin Core</translation>
     </message>
     <message>
         <source>Error opening block database</source>

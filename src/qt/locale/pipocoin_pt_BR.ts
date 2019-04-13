@@ -613,8 +613,8 @@
         <translation>Ferramentas de abas</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Send coins to a PIPOCOIN address</source>
@@ -637,12 +637,12 @@
         <translation>Procurar masternodes</translation>
     </message>
     <message>
-        <source>&amp;About PIPOCOIN Core</source>
-        <translation>&amp;Sobre o PIPOCOIN Core</translation>
+        <source>&amp;About PiPo Coin Core</source>
+        <translation>&amp;Sobre o PiPo Coin Core</translation>
     </message>
     <message>
-        <source>Show information about PIPOCOIN Core</source>
-        <translation>Mostra informação sobre o PIPOCOIN Core</translation>
+        <source>Show information about PiPo Coin Core</source>
+        <translation>Mostra informação sobre o PiPo Coin Core</translation>
     </message>
     <message>
         <source>Modify configuration options for PIPOCOIN</source>
@@ -1175,16 +1175,16 @@ MultiSend: %1</translation>
         <translation>versão</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About PIPOCOIN Core</source>
-        <translation>Sobre o PIPOCOIN Core</translation>
+        <source>About PiPo Coin Core</source>
+        <translation>Sobre o PiPo Coin Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1226,8 +1226,8 @@ MultiSend: %1</translation>
         <translation>Bem-vindo</translation>
     </message>
     <message>
-        <source>Welcome to PIPOCOIN Core.</source>
-        <translation>Bem-vindo ao PIPOCOIN Core.</translation>
+        <source>Welcome to PiPo Coin Core.</source>
+        <translation>Bem-vindo ao PiPo Coin Core.</translation>
     </message>
     <message>
         <source>As this is the first time the program is launched, you can choose where PiPoCoin Core will store its data.</source>
@@ -1246,8 +1246,8 @@ MultiSend: %1</translation>
         <translation>Usar um diretório personalizado de dados:</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -2184,8 +2184,8 @@ https://www.transifex.com/pipo-project/PiPo-coin-project-translations</translati
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     </context>
 <context>
@@ -3090,8 +3090,8 @@ https://www.transifex.com/pipo-project/PiPo-coin-project-translations</translati
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -3107,7 +3107,7 @@ https://www.transifex.com/pipo-project/PiPo-coin-project-translations</translati
     </message>
     <message>
         <source>The PiPoCoin Core developers</source>
-        <translation>Os desenvolvedores do PIPOCOIN Core</translation>
+        <translation>Os desenvolvedores do PiPo Coin Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3772,7 +3772,7 @@ https://www.transifex.com/pipo-project/PiPo-coin-project-translations</translati
     </message>
     <message>
         <source>Copyright (C) 2015-%i The PiPoCoin Core Developers</source>
-        <translation>Todos os direitos reservados (C) 2015-%i aos Desenvolvedores do PIPOCOIN Core</translation>
+        <translation>Todos os direitos reservados (C) 2015-%i aos Desenvolvedores do PiPo Coin Core</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -3831,8 +3831,8 @@ https://www.transifex.com/pipo-project/PiPo-coin-project-translations</translati
         <translation>Erro no carregamento da wallet.dat: Carteira corrompida</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of PIPOCOIN Core</source>
-        <translation>Erro ao carregar wallet.dat: A Carteira requer uma nova versão da PIPOCOIN Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of PiPo Coin Core</source>
+        <translation>Erro ao carregar wallet.dat: A Carteira requer uma nova versão da PiPo Coin Core</translation>
     </message>
     <message>
         <source>Error opening block database</source>

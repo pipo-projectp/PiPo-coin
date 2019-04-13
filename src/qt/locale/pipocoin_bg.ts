@@ -641,7 +641,7 @@
         <translation>Колан с инструменти</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation>PIPOCOIN Ядро</translation>
     </message>
     <message>
@@ -665,11 +665,11 @@
         <translation>Разгледай мастърноудове</translation>
     </message>
     <message>
-        <source>&amp;About PIPOCOIN Core</source>
+        <source>&amp;About PiPo Coin Core</source>
         <translation>&amp;Относно PIPOCOIN Ядрото</translation>
     </message>
     <message>
-        <source>Show information about PIPOCOIN Core</source>
+        <source>Show information about PiPo Coin Core</source>
         <translation>Информациза за PIPOCOIN Ядрото</translation>
     </message>
     <message>
@@ -1218,7 +1218,7 @@ Address: %4
         <translation>версия</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation>PIPOCOIN Ядро</translation>
     </message>
     <message>
@@ -1226,7 +1226,7 @@ Address: %4
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About PIPOCOIN Core</source>
+        <source>About PiPo Coin Core</source>
         <translation>Относно PIPOCOIN Ядрото</translation>
     </message>
     <message>
@@ -1273,7 +1273,7 @@ Address: %4
         <translation>Привет</translation>
     </message>
     <message>
-        <source>Welcome to PIPOCOIN Core.</source>
+        <source>Welcome to PiPo Coin Core.</source>
         <translation>Добре Дошли в PIPOCOIN Ядрото</translation>
     </message>
     <message>
@@ -1293,7 +1293,7 @@ Address: %4
         <translation>Задай своя папка за данни:</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation>PIPOCOIN Ядро</translation>
     </message>
     <message>
@@ -2980,7 +2980,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>%1 милисек.</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation>PIPOCOIN Ядро</translation>
     </message>
     </context>
@@ -4138,7 +4138,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>PIPOCOIN Core</source>
+        <source>PiPo Coin Core</source>
         <translation>PIPOCOIN Ядро</translation>
     </message>
     <message>
@@ -5239,7 +5239,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Грешка в зареждането на wallet.dat: Портфейла е повреден</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of PIPOCOIN Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of PiPo Coin Core</source>
         <translation>Грешка в зареждането на wallet.dat: Портфейла изисква по-нова версия</translation>
     </message>
     <message>

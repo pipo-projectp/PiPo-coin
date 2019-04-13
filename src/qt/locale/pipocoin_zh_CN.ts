@@ -569,8 +569,8 @@
         <translation>标签工具栏</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Send coins to a PIPOCOIN address</source>
@@ -593,11 +593,11 @@
         <translation>浏览主节点</translation>
     </message>
     <message>
-        <source>&amp;About PIPOCOIN Core</source>
-        <translation>&amp;A关于PIPOCOIN Core</translation>
+        <source>&amp;About PiPo Coin Core</source>
+        <translation>&amp;A关于PiPo Coin Core</translation>
     </message>
     <message>
-        <source>Show information about PIPOCOIN Core</source>
+        <source>Show information about PiPo Coin Core</source>
         <translation>显示PIPOCOIN  Core的相关信息</translation>
     </message>
     <message>
@@ -654,7 +654,7 @@
     </message>
     <message>
         <source>Show the PiPoCoin Core help message to get a list with possible PIPOCOIN command-line options</source>
-        <translation>显示PIPOCOIN Core帮助信息并获取PIPOCOIN命令行选项列表</translation>
+        <translation>显示PiPo Coin Core帮助信息并获取PIPOCOIN命令行选项列表</translation>
     </message>
     <message>
         <source>PiPoCoin Core client</source>
@@ -810,19 +810,19 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
-        <source>About PIPOCOIN Core</source>
-        <translation>关于PIPOCOIN Core</translation>
+        <source>About PiPo Coin Core</source>
+        <translation>关于PiPo Coin Core</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>Welcome to PIPOCOIN Core.</source>
-        <translation>欢迎使用 PIPOCOIN Core</translation>
+        <source>Welcome to PiPo Coin Core.</source>
+        <translation>欢迎使用 PiPo Coin Core</translation>
     </message>
     <message>
         <source>As this is the first time the program is launched, you can choose where PiPoCoin Core will store its data.</source>
@@ -830,11 +830,11 @@ Address: %4
     </message>
     <message>
         <source>PiPoCoin Core will download and store a copy of the PIPOCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>PIPOCOIN Core将下载并存储PIPOCOIN区块链副本。 至少 %1 GB的数据将存储在此目录中，并且会随着时间的推移而增长。 钱包也将存储在此目录中。</translation>
+        <translation>PiPo Coin Core将下载并存储PIPOCOIN区块链副本。 至少 %1 GB的数据将存储在此目录中，并且会随着时间的推移而增长。 钱包也将存储在此目录中。</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1129,8 +1129,8 @@ Address: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     </context>
 <context>
@@ -1475,8 +1475,8 @@ Address: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     </context>
 <context>
@@ -1565,7 +1565,7 @@ Address: %4
     </message>
     <message>
         <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong PiPoCoin Core will not work properly.</source>
-        <translation>注意：请检查您的电脑的日期和时间是否正确！ 如果您的时间设置不正确，PIPOCOIN Core将无法正常工作。</translation>
+        <translation>注意：请检查您的电脑的日期和时间是否正确！ 如果您的时间设置不正确，PiPo Coin Core将无法正常工作。</translation>
     </message>
     <message>
         <source>Warning: wallet.dat corrupt, data salvaged! Original wallet.dat saved as wallet.{timestamp}.bak in %s; if your balance or transactions are incorrect you should restore from a backup.</source>

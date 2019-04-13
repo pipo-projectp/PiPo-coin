@@ -657,8 +657,8 @@
         <translation>Onglets de la barre d'outils</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Send coins to a PIPOCOIN address</source>
@@ -681,12 +681,12 @@
         <translation>Afficher les masternodes</translation>
     </message>
     <message>
-        <source>&amp;About PIPOCOIN Core</source>
-        <translation>A &amp;propos de PIPOCOIN Core</translation>
+        <source>&amp;About PiPo Coin Core</source>
+        <translation>A &amp;propos de PiPo Coin Core</translation>
     </message>
     <message>
-        <source>Show information about PIPOCOIN Core</source>
-        <translation>Afficher les information concernant PIPOCOIN Core</translation>
+        <source>Show information about PiPo Coin Core</source>
+        <translation>Afficher les information concernant PiPo Coin Core</translation>
     </message>
     <message>
         <source>Modify configuration options for PIPOCOIN</source>
@@ -1270,16 +1270,16 @@ Adresse : %4
         <translation>version</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About PIPOCOIN Core</source>
-        <translation>A propos de PIPOCOIN Core</translation>
+        <source>About PiPo Coin Core</source>
+        <translation>A propos de PiPo Coin Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1321,8 +1321,8 @@ Adresse : %4
         <translation>Bienvenu</translation>
     </message>
     <message>
-        <source>Welcome to PIPOCOIN Core.</source>
-        <translation>Bienvenue à PIPOCOIN Core</translation>
+        <source>Welcome to PiPo Coin Core.</source>
+        <translation>Bienvenue à PiPo Coin Core</translation>
     </message>
     <message>
         <source>As this is the first time the program is launched, you can choose where PiPoCoin Core will store its data.</source>
@@ -1337,8 +1337,8 @@ Adresse : %4
         <translation>Utiliser un répertoire spécifique de données </translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -3201,8 +3201,8 @@ S'il vous plaît soyez patient ...</translation>
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
@@ -4407,8 +4407,8 @@ S'il vous plaît soyez patient ...</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -4424,7 +4424,7 @@ S'il vous plaît soyez patient ...</translation>
     </message>
     <message>
         <source>The PiPoCoin Core developers</source>
-        <translation>Les développeurs PIPOCOIN Core</translation>
+        <translation>Les développeurs PiPo Coin Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -5289,7 +5289,7 @@ S'il vous plaît soyez patient ...</translation>
     </message>
     <message>
         <source>Warning: We do not appear to fully agree with our peers! You may need to upgrade, or other nodes may need to upgrade.</source>
-        <translation>Attention: Il semble que nous soyons en désaccord avec nos pairs sur le réseau! Cela signifie que vous pourriez avoir besoin de mettre à jour votre PIPOCOIN Core, ou que les autres noeuds aient besoin de se mettre à jour de leur côté.</translation>
+        <translation>Attention: Il semble que nous soyons en désaccord avec nos pairs sur le réseau! Cela signifie que vous pourriez avoir besoin de mettre à jour votre PiPo Coin Core, ou que les autres noeuds aient besoin de se mettre à jour de leur côté.</translation>
     </message>
     <message>
         <source>Warning: error reading wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</source>
@@ -5437,7 +5437,7 @@ S'il vous plaît soyez patient ...</translation>
     </message>
     <message>
         <source>Copyright (C) 2015-%i The PiPoCoin Core Developers</source>
-        <translation>Copyright (C) 2015-%i Les développeurs de PIPOCOIN Core</translation>
+        <translation>Copyright (C) 2015-%i Les développeurs de PiPo Coin Core</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5520,7 +5520,7 @@ S'il vous plaît soyez patient ...</translation>
         <translation>Erreur de chargement du fichier wallet.dat: Portefeuille corrompu</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of PIPOCOIN Core</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of PiPo Coin Core</source>
         <translation>Erreur de chargement du fichier wallet.dat: Le portefeuille nécessite une version plus récente du PIPOCOIN core</translation>
     </message>
     <message>

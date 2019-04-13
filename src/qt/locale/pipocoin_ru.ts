@@ -641,8 +641,8 @@
         <translation>Панель вкладок</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Send coins to a PIPOCOIN address</source>
@@ -665,12 +665,12 @@
         <translation>Обзор мастернод</translation>
     </message>
     <message>
-        <source>&amp;About PIPOCOIN Core</source>
-        <translation>&amp;О PIPOCOIN Core</translation>
+        <source>&amp;About PiPo Coin Core</source>
+        <translation>&amp;О PiPo Coin Core</translation>
     </message>
     <message>
-        <source>Show information about PIPOCOIN Core</source>
-        <translation>Показать информацию о PIPOCOIN Core</translation>
+        <source>Show information about PiPo Coin Core</source>
+        <translation>Показать информацию о PiPo Coin Core</translation>
     </message>
     <message>
         <source>Modify configuration options for PIPOCOIN</source>
@@ -730,7 +730,7 @@
     </message>
     <message>
         <source>PiPoCoin Core client</source>
-        <translation>Клиент PIPOCOIN Core</translation>
+        <translation>Клиент PiPo Coin Core</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1218,16 +1218,16 @@ MultiSend: %1</translation>
         <translation>версия</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-бит)</translation>
     </message>
     <message>
-        <source>About PIPOCOIN Core</source>
-        <translation>О PIPOCOIN Core</translation>
+        <source>About PiPo Coin Core</source>
+        <translation>О PiPo Coin Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1273,12 +1273,12 @@ MultiSend: %1</translation>
         <translation>Добро пожаловать</translation>
     </message>
     <message>
-        <source>Welcome to PIPOCOIN Core.</source>
-        <translation>Добро пожаловать в PIPOCOIN Core.</translation>
+        <source>Welcome to PiPo Coin Core.</source>
+        <translation>Добро пожаловать в PiPo Coin Core.</translation>
     </message>
     <message>
         <source>As this is the first time the program is launched, you can choose where PiPoCoin Core will store its data.</source>
-        <translation>Поскольку это первый запуск программы, вы можете выбрать, где будут храниться данные PIPOCOIN Core.</translation>
+        <translation>Поскольку это первый запуск программы, вы можете выбрать, где будут храниться данные PiPo Coin Core.</translation>
     </message>
     <message>
         <source>PiPoCoin Core will download and store a copy of the PIPOCOIN block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
@@ -1293,8 +1293,8 @@ MultiSend: %1</translation>
         <translation>Использовать другой каталог данных:</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -2986,8 +2986,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>%1 мс</translation>
     </message>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     </context>
 <context>
@@ -4145,8 +4145,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>PIPOCOIN Core</source>
-        <translation>PIPOCOIN Core</translation>
+        <source>PiPo Coin Core</source>
+        <translation>PiPo Coin Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -4162,7 +4162,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <source>The PiPoCoin Core developers</source>
-        <translation>Разработчики PIPOCOIN Core</translation>
+        <translation>Разработчики PiPo Coin Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4807,7 +4807,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <source>Cannot obtain a lock on data directory %s. PiPoCoin Core is probably already running.</source>
-        <translation>Не удается получить блокировку в каталоге данных %s. PIPOCOIN Core, вероятно, уже запущен.</translation>
+        <translation>Не удается получить блокировку в каталоге данных %s. PiPo Coin Core, вероятно, уже запущен.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -4983,7 +4983,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <source>Unable to bind to %s on this computer. PiPoCoin Core is probably already running.</source>
-        <translation>Не удалось привязать к %s на этом компьютере. PIPOCOIN Core, вероятно, уже запущен.</translation>
+        <translation>Не удалось привязать к %s на этом компьютере. PiPo Coin Core, вероятно, уже запущен.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
@@ -5163,7 +5163,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <source>Copyright (C) 2015-%i The PiPoCoin Core Developers</source>
-        <translation>Copyright (C) 2015-%i Разработчики PIPOCOIN Core</translation>
+        <translation>Copyright (C) 2015-%i Разработчики PiPo Coin Core</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5250,8 +5250,8 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
         <translation>Ошибка при загрузке wallet.dat: Кошелек поврежден</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of PIPOCOIN Core</source>
-        <translation>Ошибка загрузки wallet.dat: Кошелек требует более новой версии PIPOCOIN Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of PiPo Coin Core</source>
+        <translation>Ошибка загрузки wallet.dat: Кошелек требует более новой версии PiPo Coin Core</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -6183,7 +6183,7 @@ Either mint higher denominations (so fewer inputs are needed) or reduce the amou
     </message>
     <message>
         <source>Wallet needed to be rewritten: restart PiPoCoin Core to complete</source>
-        <translation>Кошелек необходимо переписать: перезапустите PIPOCOIN Core, чтобы завершить</translation>
+        <translation>Кошелек необходимо переписать: перезапустите PiPo Coin Core, чтобы завершить</translation>
     </message>
     <message>
         <source>Wallet options:</source>

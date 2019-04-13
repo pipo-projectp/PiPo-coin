@@ -320,7 +320,7 @@ QT_TRANSLATE_NOOP("pipocoin-core", "Error initializing wallet database environme
 QT_TRANSLATE_NOOP("pipocoin-core", "Error loading block database"),
 QT_TRANSLATE_NOOP("pipocoin-core", "Error loading wallet.dat"),
 QT_TRANSLATE_NOOP("pipocoin-core", "Error loading wallet.dat: Wallet corrupted"),
-QT_TRANSLATE_NOOP("pipocoin-core", "Error loading wallet.dat: Wallet requires newer version of PIPOCOIN Core"),
+QT_TRANSLATE_NOOP("pipocoin-core", "Error loading wallet.dat: Wallet requires newer version of PiPo Coin Core"),
 QT_TRANSLATE_NOOP("pipocoin-core", "Error opening block database"),
 QT_TRANSLATE_NOOP("pipocoin-core", "Error reading from database, shutting down."),
 QT_TRANSLATE_NOOP("pipocoin-core", "Error recovering public key."),
