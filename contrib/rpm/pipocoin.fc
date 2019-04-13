@@ -1,0 +1,8 @@
+/usr/bin/pipocoin-cli		--	gen_context(system_u:object_r:pipocoin_exec_t,s0)
+/usr/sbin/pipocoind		--	gen_context(system_u:object_r:pipocoin_exec_t,s0)
+/usr/lib(64)?/pipocoin/pipocoind		--	gen_context(system_u:object_r:pipocoin_exec_t,s0)
+
+/etc/pipocoin(/.*)?		gen_context(system_u:object_r:pipocoin_conf_t,s0)
+/var/lib/pipocoin(/.*)?		gen_context(system_u:object_r:pipocoin_var_lib_t,s0)
+
+(/var)?/run/pipocoind(/.*)?   gen_context(system_u:object_r:pipocoin_var_run_t,s0)

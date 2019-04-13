@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=PIPOCOIN
+Comment=PIPOCOIN P2P Cryptocurrency
+Comment[fr]=PIPOCOIN, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=PIPOCOIN, eşten eşe kriptografik sanal para birimi
+Exec=pipocoin-qt %u
+Terminal=false
+Type=Application
+Icon=pipocoin128
+MimeType=x-scheme-handler/pipocoin;
+Categories=Office;Finance;
