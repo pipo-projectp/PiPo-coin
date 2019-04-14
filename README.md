@@ -1,7 +1,7 @@
 PiPoCoin Core integration/staging repository
 =====================================
 [![Build Status](https://travis-ci.org/pipo-project/PiPo-coin.svg?branch=master)](https://travis-ci.org/pipo-project/PiPo-coin)
-
+[![Build Status](https://travis-ci.org/pipo-project/PiPo-coin.svg?branch=master)](https://travis-ci.org/pipo-project/PiPo-coin) [![GitHub version](https://badge.fury.io/gh/pipo-project%2FPiPo-coin.svg)](https://badge.fury.io/gh/pipo-project%2FPiPo-coin)
 
 ### Coin Specs
 <table>
