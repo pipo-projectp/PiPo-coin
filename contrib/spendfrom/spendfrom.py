@@ -35,7 +35,7 @@ def check_json_precision():
 def determine_db_dir():
     """Return the default location of the pipocoin data directory"""
     if platform.system() == "Darwin":
-        return os.path.expanduser("~/Library/Application Support/PIPOCOIN/")
+        return os.path.expanduser("~/Library/Application Support/pipocoin/")
     elif platform.system() == "Windows":
         return os.path.join(os.environ['APPDATA'], "PIPOCOIN")
     return os.path.expanduser("~/.pipocoin")

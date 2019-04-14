@@ -428,7 +428,7 @@ boost::filesystem::path GetDefaultDataDir()
     namespace fs = boost::filesystem;
 // Windows < Vista: C:\Documents and Settings\Username\Application Data\PIPOCOIN
 // Windows >= Vista: C:\Users\Username\AppData\Roaming\PIPOCOIN
-// Mac: ~/Library/Application Support/PIPOCOIN
+// Mac: ~/Library/Application Support/pipocoin
 // Unix: ~/.pipocoin
 #ifdef WIN32
     // Windows

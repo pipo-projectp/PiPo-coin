@@ -20,8 +20,8 @@ Summary:	Peer to Peer Cryptographic Currency
 
 Group:		Applications/System
 License:	MIT
-URL:		https://pipocoin.org/
-Source0:	https://pipocoin.org/bin/pipocoin-core-%{version}/pipocoin-%{version}.tar.gz
+URL:		https://pipo.project/
+Source0:	https://pipo.project/bin/pipocoin-core-%{version}/pipocoin-%{version}.tar.gz
 Source1:	http://download.oracle.com/berkeley-db/db-%{bdbv}.NC.tar.gz
 
 Source10:	https://raw.githubusercontent.com/pipo-project/PiPo-coin/v%{version}/contrib/debian/examples/pipocoin.conf

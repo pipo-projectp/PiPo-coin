@@ -12,8 +12,8 @@ When a "Transaction Lock" occurs the hash of the related transaction is broadcas
 * `zmqpubhashtxlock`: publishes the transaction hash when locked via SwiftX
 
 This mechanism has been integrated into Bitcore-Node-PIPOCOIN which allows for notification to be broadcast through Insight API in one of two ways:
-* WebSocket: [https://github.com/PIPOCOIN-Project/insight-api-pipocoin#web-socket-api](https://github.com/PIPOCOIN-Project/insight-api-pipocoin#web-socket-api) 
-* API: [https://github.com/PIPOCOIN-Project/insight-api-pipocoin#swifttx-transactions](https://github.com/PIPOCOIN-Project/insight-api-pipocoin#swifttx-transactions) 
+* WebSocket: [https://github.com/pipocoin-project/insight-api-pipocoin#web-socket-api](https://github.com/pipocoin-project/insight-api-pipocoin#web-socket-api) 
+* API: [https://github.com/pipocoin-project/insight-api-pipocoin#swifttx-transactions](https://github.com/pipocoin-project/insight-api-pipocoin#swifttx-transactions) 
 
 ####Command line option
 

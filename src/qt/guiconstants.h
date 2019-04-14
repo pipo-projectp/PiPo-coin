@@ -55,7 +55,7 @@ static const int MAX_URI_LENGTH = 255;
 #define SPINNER_FRAMES 35
 
 #define QAPP_ORG_NAME "PIPOCOIN"
-#define QAPP_ORG_DOMAIN "pipocoin.org"
+#define QAPP_ORG_DOMAIN "pipo.project"
 #define QAPP_APP_NAME_DEFAULT "PIPOCOIN-Qt"
 #define QAPP_APP_NAME_TESTNET "PIPOCOIN-Qt-testnet"
 
