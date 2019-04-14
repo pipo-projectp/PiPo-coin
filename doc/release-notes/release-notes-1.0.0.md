@@ -1,4 +1,4 @@
-PiPoCoin Core version *3.1.0* is now available from:  <https://github.com/pipo-project/PiPo-coin/releases>
+PiPoCoin Core version *1.0.0* is now available from:  <https://github.com/pipo-project/PiPo-coin/releases>
 
 This is a new major version release, including various bug fixes and performance improvements, as well as updated translations.
 
@@ -8,14 +8,14 @@ Please report bugs using the issue tracker at github: <https://github.com/pipo-p
 Mandatory Update
 ==============
 
-PiPoCoin Core v3.1.0 is a mandatory update for all users. This release contains new consensus rules and improvements that are not backwards compatible with older versions. Users will have a grace period of one week to update their clients before enforcement of this update is enabled.
+PiPoCoin Core v1.0.0 is a mandatory update for all users. This release contains new consensus rules and improvements that are not backwards compatible with older versions. Users will have a grace period of one week to update their clients before enforcement of this update is enabled.
 
 Users updating from a previous version after Tuesday, May 8, 2018 12:00:00 AM GMT will require a full resync of their local blockchain from either the P2P network or by way of the bootstrap.
 
 How to Upgrade
 ==============
 
-If you are running an older version, shut it down. Wait until it has completely shut down (which might take a few minutes for older versions), then run the installer (on Windows) or just copy over /Applications/PIPOCOIN-Qt (on Mac) or pipocoind/pipocoin-qt (on Linux).
+If you are running an older version, shut it down. Wait until it has completely shut down (which might take a few minutes for older versions), then run the installer (on Windows) or just copy over /Applications/pipocoin-Qt (on Mac) or pipocoind/pipocoin-qt (on Linux).
 
 
 Compatibility
@@ -34,7 +34,7 @@ frequently tested on them.
 
 ### :exclamation::exclamation::exclamation: MacOS 10.13 High Sierra :exclamation::exclamation::exclamation:
 
-**Currently there are issues with the 3.x gitian release on MacOS version 10.13 (High Sierra), no reports of issues on older versions of MacOS.**
+**Currently there is no support for MacOS.**
 
  
 Notable Changes
@@ -45,7 +45,7 @@ zPIPO Updates
 
 ### zPIPO Staking
 
-zPIPO Staking is here! zPIPO staking will be activated on the morning of the 8th of May 2018. With the release of zPIPO staking, there are effectively 2 versions of zPIPO, zPIPO minted on the 3.0.6 PIPOCOIN wallet or lower, and zPIPO minted on PIPOCOIN wallet version or higher. New features in this release will require the use of zPIPO v2, zPIPO minted on this wallet release 3.1.0 or later. If you currently hold zPIPO v1 and wish to take advantage of zPIPO staking and deterministic zPIPO, you will need to spend the zPIPO v1 to yourself and remint zPIPO v2.
+zPIPO Staking is here! zPIPO staking will be activated on the morning of the 8th of May 2018. With the release of zPIPO staking, there are effectively 2 versions of zPIPO, zPIPO minted on the 3.0.6 PIPOCOIN wallet or lower, and zPIPO minted on PIPOCOIN wallet version or higher. New features in this release will require the use of zPIPO v2, zPIPO minted on this wallet release 1.0.0 or later. If you currently hold zPIPO v1 and wish to take advantage of zPIPO staking and deterministic zPIPO, you will need to spend the zPIPO v1 to yourself and remint zPIPO v2.
 Note: To find your zPIPO version, click the privacy tab, then the zPIPO Control button then expand the arrows next to the desired denomination.
 
 
@@ -288,7 +288,7 @@ Zerocoin Modulus
 PIPOCOIN's zerocoin implementation used the same code from the ZCoin project to import the modulus use for the zerocoin protocol. The chosen modulus is the 2048 bit RSA number created for the RSA factoring challenge. The ZCoin project's implementation (which PIPOCOIN used) improperly imported the modulus into the code. This flaw was discovered by user GOAT from the [Civitas Project](https://github.com/eastcoastcrypto/Civitas/), and reported to PIPOCOIN using the bug bounty program. The modulus is now correctly imported and PIPOCOIN's accumulators have been changed to use the new proper modulus.
 
 
-*3.1.0* Change log
+*1.0.0* Change log
 --------------
 
 Detailed release notes follow. This overview includes changes that affect behavior, not code moves, refactors and string updates. For convenience in locating the code changes and accompanying discussion, both the pull request and git merge commit are mentioned.
