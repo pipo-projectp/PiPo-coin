@@ -115,7 +115,7 @@ public:
         pchMessageStart[3] = 0xec;
         vAlertPubKey = ParseHex("048465c6550ecfb80b8d9b63d6e4bc572273ac4030e04ca98cb183c12eafdd5c91e64e01faae9ba47533b60e8eb85025d5de3e3f40fa0460a659d31fe09d04d858");
         nDefaultPort = 52215;
-        bnProofOfWorkLimit = ~uint256(0) >> 5; // PIPOCOIN starting difficulty is 1 / 2^12
+        bnProofOfWorkLimit = ~uint256(0) >> 10; // PIPOCOIN starting difficulty is 1 / 2^12
         nSubsidyHalvingInterval = 210000;
         nMaxReorganizationDepth = 100;
         nEnforceBlockUpgradeMajority = 750; // 75%
@@ -131,8 +131,8 @@ public:
         /** Height or Time Based Activations **/
         nLastPOWBlock = 1000;
         nModifierUpdateBlock = 1;
-        nZerocoinStartHeight = 999999999;
-        nZerocoinStartTime = 1556661600; //  (GMT): Tuesday, 30. April 2019 22:00:00
+        nZerocoinStartHeight = 1100;
+        nZerocoinStartTime = 1555267186; //  (GMT): Tuesday, 30. April 2019 22:00:00
         nBlockEnforceSerialRange = 999999999; //Enforce serial range starting this block
         nBlockRecalculateAccumulators = 999999999; //Trigger a recalculation of accumulators
         nBlockFirstFraudulent = 999999999; //First block that bad serials emerged
