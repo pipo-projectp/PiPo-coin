@@ -115,7 +115,7 @@ public:
         pchMessageStart[3] = 0xec;
         vAlertPubKey = ParseHex("048465c6550ecfb80b8d9b63d6e4bc572273ac4030e04ca98cb183c12eafdd5c91e64e01faae9ba47533b60e8eb85025d5de3e3f40fa0460a659d31fe09d04d858");
         nDefaultPort = 52215;
-        bnProofOfWorkLimit = ~uint256(0) >> 10; // PIPOCOIN starting difficulty is 1 / 2^12
+        bnProofOfWorkLimit = ~uint256(0) >> 5; // PIPOCOIN starting difficulty is 1 / 2^12
         nSubsidyHalvingInterval = 210000;
         nMaxReorganizationDepth = 100;
         nEnforceBlockUpgradeMajority = 750; // 75%
